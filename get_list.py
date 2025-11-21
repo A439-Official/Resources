@@ -28,6 +28,7 @@ if __name__ == "__main__":
             for file_name in files:
                 if not file_name.startswith("."):
                     file_path = os.path.join(root, file_name)
+                    print(f"正在处理文件 {file_path}...")
                     md5_value = calculate_md5(file_path)
                     if md5_value:
                         files_list[os.path.relpath(file_path, dir_name)] = md5_value
