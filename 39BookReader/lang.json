@@ -1,6 +1,15 @@
 {
     "zh-CN": {
+        "ON": "开",
+        "OFF": "关",
+        "Welcome": "欢迎",
+        "Read": "阅读",
         "Options": "选项",
-        "Language": "语言"
+        "Exit": "退出",
+        "Language": "语言",
+        "Auto Update": "自动更新",
+        "Reset Options": "重置选项",
+        "Back": "返回",
+        "Checking update...": "检查更新中..."
     }
 }
