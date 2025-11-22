@@ -4,12 +4,16 @@
         "OFF": "关",
         "Welcome": "欢迎",
         "Read": "阅读",
-        "Options": "选项",
+        "Options": "设置",
         "Exit": "退出",
+        "Reading": "阅读",
+        "My Books": "我的书籍",
+        "Search": "搜索",
+        "Back": "返回",
         "Language": "语言",
         "Auto Update": "自动更新",
-        "Reset Options": "重置选项",
-        "Back": "返回",
-        "Checking update...": "检查更新中..."
+        "Reset Options": "重置设置",
+        "Search Text": "搜索文本",
+        "Checking update...": "检查更新中"
     }
 }
