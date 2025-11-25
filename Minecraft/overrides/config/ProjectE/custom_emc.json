@@ -1,0 +1,144 @@
+{
+  "entries": [
+    {
+      "item": "tconstruct:materials|0",
+      "emc": 10
+    },
+    {
+      "item": "tconstruct:seared|3",
+      "emc": 40
+    },
+    {
+      "item": "tconstruct:seared_glass|0",
+      "emc": 41
+    },
+    {
+      "item": "tconstruct:stone_ladder|0",
+      "emc": 3
+    },
+    {
+      "item": "projecte:item.pe_matter|0",
+      "emc": 139264
+    },
+    {
+      "item": "minecraft:iron_block|0",
+      "emc": 2304
+    },
+    {
+      "item": "tconstruct:edible|1",
+      "emc": 32
+    },
+    {
+      "item": "mukaimods:music_emerald|0",
+      "emc": 512
+    },
+    {
+      "item": "projecte:item.pe_matter|1",
+      "emc": 466944
+    },
+    {
+      "item": "moretcon:gemgarstone|0",
+      "emc": 8192
+    },
+    {
+      "item": "tconstruct:edible|2",
+      "emc": 32
+    },
+    {
+      "item": "moretcon:gemvoidspar|0",
+      "emc": 65536
+    },
+    {
+      "item": "mysticalagriculture:crafting|0",
+      "emc": 128
+    },
+    {
+      "item": "aoa3:jade|0",
+      "emc": 512
+    },
+    {
+      "item": "shincolle:grudge|0",
+      "emc": 64
+    },
+    {
+      "item": "aoa3:amethyst|0",
+      "emc": 256
+    },
+    {
+      "item": "betternether:cincinnasite|0",
+      "emc": 128
+    },
+    {
+      "item": "mysticalagriculture:crafting|5",
+      "emc": 256
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence|0",
+      "emc": 2271
+    },
+    {
+      "item": "projecte:matter_block|0",
+      "emc": 557056
+    },
+    {
+      "item": "projecte:transmutation_table|0",
+      "emc": 10244
+    },
+    {
+      "item": "projecte:matter_block|1",
+      "emc": 1867776
+    },
+    {
+      "item": "funnyfruit:log_funny_fruit|0",
+      "emc": 32
+    },
+    {
+      "item": "funnyfruit:funny_fruit|0",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:experience_bottle|0",
+      "emc": 2048
+    },
+    {
+      "item": "shincolle:abyssmetal|1",
+      "emc": 256
+    },
+    {
+      "item": "moretcon:ingotfusionite|0",
+      "emc": 65536
+    },
+    {
+      "item": "aoa3:emberstone_ingot|0",
+      "emc": 4096
+    },
+    {
+      "item": "moretcon:ingothallowsite|0",
+      "emc": 32768
+    },
+    {
+      "item": "forge:bucketfilled|0",
+      "emc": 98304
+    },
+    {
+      "item": "moretcon:ingotirradium|0",
+      "emc": 16384
+    },
+    {
+      "item": "tconstruct:edible|4",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:materials|17",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:potion|0",
+      "emc": 0
+    },
+    {
+      "item": "moretcon:gemigniglomerate|0",
+      "emc": 16384
+    }
+  ]
+}
