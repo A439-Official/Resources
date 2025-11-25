@@ -3,7 +3,7 @@
   "author": "A439",
   "version": "1.0",
   "description": "",
-  "fileApi": "https://raw.githubusercontent.com/A439-Official/Resources/main/Minecraft",
+  "fileApi": "https://github.com/A439-Official/Resources/raw/main/Minecraft",
   "files": [
     {
       "path": "config/aether-dimension/biomes.txt",
