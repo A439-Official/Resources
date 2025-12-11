@@ -139,6 +139,14 @@
     {
       "item": "moretcon:gemigniglomerate|0",
       "emc": 16384
+    },
+    {
+      "item": "tconstruct:materials|14",
+      "emc": 4608
+    },
+    {
+      "item": "tconstruct:materials|50",
+      "emc": 16777216
     }
   ]
 }

@@ -16,7 +16,7 @@ fancyGraphics:false
 ao:0
 renderClouds:true
 resourcePacks:["汉化资源包 by A439"]
-incompatibleResourcePacks:["汉化资源包 by A439"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
 chatVisibility:0
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:true
+fullscreen:false
 enableVsync:true
 useVbo:false
 hideServerAddress:false
@@ -106,8 +106,7 @@ key_key.cstats:0
 key_key.resources:24
 key_key.skills:0
 key_key.adventGui:211
-key_oreexcavation.key.excavate:15
-key_oreexcavation.key.shape:0
+key_key.ftbultimine:15
 key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -156,6 +155,9 @@ key_gui.xaero_toggle_manual_cave_mode:0
 key_gui.xaero_alternative_list_players:0
 key_gui.xaero_toggle_tracked_players_on_map:0
 key_gui.xaero_toggle_tracked_players_in_world:0
+key_key.menu:0
+key_key.villages:0
+key_key.escorts:0
 key_key.metamorph.action:47
 key_key.metamorph.creative_menu:35
 key_key.metamorph.selector_menu:45

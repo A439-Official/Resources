@@ -1,0 +1,28 @@
+//当前玩家获取被控制的村庄; 当加载单人游戏世界（包括在局域网上打开的）时，让单人游戏使用当前的千年村庄配置文件并控制所有世界的被控制的村庄。
+auto_convert_profiles=false
+
+//创造村庄时建立村落; 是否在村庄周围建立村落。这会占用很多空间！
+generate_hamlets=false
+
+//旅行书输出; 是否输出旅行书（翻译内容暂不确定）
+generate_travel_book_export=false
+
+//旅行书学习; 村民、建筑物等描述是否在旅游书中披露后，才会显示。
+travel_book_learning=true
+
+//生成帮助数据; 生成对制作者有用的各种数据（颜色表、货物清单、通用目标信息等）。
+generate_help_data=false
+
+//config.ignore_resource_cost.label; config.ignore_resource_cost.desc:
+ignore_resource_cost=false
+
+//Unique random identifier to count unique players if statistics are enabled
+random_uid=4474552457521390592
+
+//Advancement completed for anonymous statistics
+advancements_creative=
+
+//Advancement completed for anonymous statistics
+advancements_survival=firstcontact,explorer
+
+validation=346190916

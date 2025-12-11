@@ -1090,6 +1090,26 @@ betternether:stalagnate_bowl_mushroom, Mushroom Stew
 betternether:stalagnate_bowl_apple, Black Apple
 betternether:cincinnasite_axe, Cincinnasite Axe
 betternether:cincinnasite_axe_diamond, Cincinnasite-Diamond Axe
+villagenames:codex, 手抄本
+villagenames:villagebook, 村庄之书
+villagenames:mineshaftbook, 矿井手册
+villagenames:jungletemplebook, 丛林圣殿之书
+villagenames:desertpyramidbook, 沙漠金字塔之书
+villagenames:swamphutbook, 沼泽小屋之书
+villagenames:igloobook, 冰屋之书
+villagenames:templebook, 庙宇之书
+villagenames:strongholdbook, 要塞之书
+villagenames:monumentbook, 纪念之书
+villagenames:mansionbook, 公馆之书
+villagenames:fortressbook, 堡垒之书
+villagenames:endcitybook, 末地城市之书
+villagenames:moonvillagebook, 月亮村之书
+villagenames:koentusvillagebook, 科恩图斯村庄之书
+villagenames:fronosvillagebook, 弗罗诺斯村庄之书
+villagenames:nibiruvillagebook, 尼比鲁村庄之书
+villagenames:abandonedbasebook, 废弃底本
+villagenames:lunaringoldbrick, 卢纳林式金砖
+villagenames:lunarinironbrick, 卢纳林式铁砖
 editenchanting:enchantment_edit_table, 祛魔编辑台
 pewter:pewterfluid, fluid.other.name
 slashbladetic:blade_station, 拔刀剑装配台
@@ -1471,6 +1491,8 @@ appliedenergistics2:facade:0, 线缆伪装板 - Small Nether Brick Tile
 appliedenergistics2:facade:0, 线缆伪装板 - Bone Block
 appliedenergistics2:facade:0, 线缆伪装板 - Cincinnasite Brick Pillar
 appliedenergistics2:facade:0, 线缆伪装板 - Bone Tile
+appliedenergistics2:facade:0, 线缆伪装板 - 卢纳林式金砖
+appliedenergistics2:facade:0, 线缆伪装板 - 卢纳林式铁砖
 appliedenergistics2:facade:0, 线缆伪装板 - 赛特斯石英矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 充能赛特斯石英矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 赛特斯石英块
@@ -1657,6 +1679,153 @@ appliedenergistics2:facade:0, 线缆伪装板 - 雕琢褐岩块
 appliedenergistics2:facade:0, 线缆伪装板 - 三角纹褐岩石砖
 appliedenergistics2:facade:0, 线缆伪装板 - 细纹褐岩石砖
 appliedenergistics2:facade:0, 线缆伪装板 - 褐岩瓷砖块
+appliedenergistics2:facade:0, 线缆伪装板 - 横木框架
+appliedenergistics2:facade:0, 线缆伪装板 - 斜木框架
+appliedenergistics2:facade:0, 线缆伪装板 - 茅草
+appliedenergistics2:facade:0, 线缆伪装板 - Beehive
+appliedenergistics2:facade:0, 线缆伪装板 - 泥砖
+appliedenergistics2:facade:0, 线缆伪装板 - 玛雅黄金饰品
+appliedenergistics2:facade:0, 线缆伪装板 - 拜占庭马赛克
+appliedenergistics2:facade:0, 线缆伪装板 - 拜占庭壁画
+appliedenergistics2:facade:0, 线缆伪装板 - Light Blue Concrete Brick
+appliedenergistics2:facade:0, 线缆伪装板 - Light Blue Chiseled Concrete
+appliedenergistics2:facade:0, 线缆伪装板 - 泥墙
+appliedenergistics2:facade:0, 线缆伪装板 - 白色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 白色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 橙色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 橙色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 品红色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 品红色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 淡蓝色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 淡蓝色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 黄色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 黄色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 黄绿色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 黄绿色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 粉红色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 粉红色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 灰色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 灰色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 银色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 银色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 青色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 青色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 紫色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 紫色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 蓝色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 蓝色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 棕色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 棕色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 绿色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 绿色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 红色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 红色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 黑色涂料砖
+appliedenergistics2:facade:0, 线缆伪装板 - 黑色涂料装饰砖
+appliedenergistics2:facade:0, 线缆伪装板 - 光滑泥砖
+appliedenergistics2:facade:0, 线缆伪装板 - 粉刷装饰泥砖
+appliedenergistics2:facade:0, 线缆伪装板 - 装饰泥砖
+appliedenergistics2:facade:0, 线缆伪装板 - 砂岩雕刻石
+appliedenergistics2:facade:0, 线缆伪装板 - 红砂岩雕刻石
+appliedenergistics2:facade:0, 线缆伪装板 - 赭色砂岩雕刻石
+appliedenergistics2:facade:0, 线缆伪装板 - 湿砖
+appliedenergistics2:facade:0, 线缆伪装板 - 空蜗牛土
+appliedenergistics2:facade:0, 线缆伪装板 - 蜗牛土
+appliedenergistics2:facade:0, 线缆伪装板 - 拜占庭瓷砖
+appliedenergistics2:facade:0, 线缆伪装板 - 拜占庭石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 拜占庭砂岩砖
+appliedenergistics2:facade:0, 线缆伪装板 - 拜占庭石砖装饰
+appliedenergistics2:facade:0, 线缆伪装板 - 拜占庭砂岩砖装饰
+appliedenergistics2:facade:0, 线缆伪装板 - 炼金术士炸药
+appliedenergistics2:facade:0, 线缆伪装板 - 橡木草皮木板
+appliedenergistics2:facade:0, 线缆伪装板 - 云杉草皮木板
+appliedenergistics2:facade:0, 线缆伪装板 - 白桦草皮木板
+appliedenergistics2:facade:0, 线缆伪装板 - 丛林草皮木板
+appliedenergistics2:facade:0, 线缆伪装板 - 金合欢草皮木板
+appliedenergistics2:facade:0, 线缆伪装板 - 深色橡木草皮木板
+appliedenergistics2:facade:0, 线缆伪装板 - 雪砖
+appliedenergistics2:facade:0, 线缆伪装板 - 苹果树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 橄榄树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 开心果树叶
+appliedenergistics2:facade:0, 线缆伪装板 - Cherry Tree Leaves
+appliedenergistics2:facade:0, 线缆伪装板 - Sakura Tree Leaves
+appliedenergistics2:facade:0, 线缆伪装板 - 地点标识方块
+appliedenergistics2:facade:0, 线缆伪装板 - 睡觉点
+appliedenergistics2:facade:0, 线缆伪装板 - 交易点
+appliedenergistics2:facade:0, 线缆伪装板 - 制作点
+appliedenergistics2:facade:0, 线缆伪装板 - 保卫点
+appliedenergistics2:facade:0, 线缆伪装板 - 庇护点
+appliedenergistics2:facade:0, 线缆伪装板 - 路径开始点
+appliedenergistics2:facade:0, 线缆伪装板 - 聊天点
+appliedenergistics2:facade:0, 线缆伪装板 - 摆摊点
+appliedenergistics2:facade:0, 线缆伪装板 - 烘干点
+appliedenergistics2:facade:0, 线缆伪装板 - 治疗点
+appliedenergistics2:facade:0, 线缆伪装板 - 钓鱼点
+appliedenergistics2:facade:0, 线缆伪装板 - 主箱
+appliedenergistics2:facade:0, 线缆伪装板 - 牛生产点
+appliedenergistics2:facade:0, 线缆伪装板 - 猪生产点
+appliedenergistics2:facade:0, 线缆伪装板 - 羊生产点
+appliedenergistics2:facade:0, 线缆伪装板 - 鸡生产点
+appliedenergistics2:facade:0, 线缆伪装板 - 鱿鱼生产点
+appliedenergistics2:facade:0, 线缆伪装板 - 狼生产点
+appliedenergistics2:facade:0, 线缆伪装板 - 北极熊生产点
+appliedenergistics2:facade:0, 线缆伪装板 - 石头源方块
+appliedenergistics2:facade:0, 线缆伪装板 - 沙子源方块
+appliedenergistics2:facade:0, 线缆伪装板 - 砂岩源方块
+appliedenergistics2:facade:0, 线缆伪装板 - 粘土源方块
+appliedenergistics2:facade:0, 线缆伪装板 - 沙砾源方块
+appliedenergistics2:facade:0, 线缆伪装板 - 花岗岩源方块
+appliedenergistics2:facade:0, 线缆伪装板 - 闪长岩源方块
+appliedenergistics2:facade:0, 线缆伪装板 - 安山岩源方块
+appliedenergistics2:facade:0, 线缆伪装板 - 雪源方块
+appliedenergistics2:facade:0, 线缆伪装板 - 冰源方块
+appliedenergistics2:facade:0, 线缆伪装板 - 红砂岩源方块
+appliedenergistics2:facade:0, 线缆伪装板 - 石英源方块
+appliedenergistics2:facade:0, 线缆伪装板 - 自由石头
+appliedenergistics2:facade:0, 线缆伪装板 - 自由沙子
+appliedenergistics2:facade:0, 线缆伪装板 - 自由沙砾
+appliedenergistics2:facade:0, 线缆伪装板 - 自由砂岩
+appliedenergistics2:facade:0, 线缆伪装板 - 自由羊毛
+appliedenergistics2:facade:0, 线缆伪装板 - 自由圆石
+appliedenergistics2:facade:0, 线缆伪装板 - 自由石砖
+appliedenergistics2:facade:0, 线缆伪装板 - 自由彩砖
+appliedenergistics2:facade:0, 线缆伪装板 - 自由草方块
+appliedenergistics2:facade:0, 线缆伪装板 - 橡树生长点
+appliedenergistics2:facade:0, 线缆伪装板 - 松树生长点
+appliedenergistics2:facade:0, 线缆伪装板 - 白桦树生长点
+appliedenergistics2:facade:0, 线缆伪装板 - 丛林树生长点
+appliedenergistics2:facade:0, 线缆伪装板 - 金合欢树生长点
+appliedenergistics2:facade:0, 线缆伪装板 - 深色橡树生长点
+appliedenergistics2:facade:0, 线缆伪装板 - 苹果树生长点
+appliedenergistics2:facade:0, 线缆伪装板 - 开心果树生长点
+appliedenergistics2:facade:0, 线缆伪装板 - 橄榄树生长点
+appliedenergistics2:facade:0, 线缆伪装板 - Cherry Tree Spawn Point
+appliedenergistics2:facade:0, 线缆伪装板 - Sakura Tree Spawn Point
+appliedenergistics2:facade:0, 线缆伪装板 - 小麦种植地
+appliedenergistics2:facade:0, 线缆伪装板 - 稻米种植地
+appliedenergistics2:facade:0, 线缆伪装板 - 姜黄种植地
+appliedenergistics2:facade:0, 线缆伪装板 - 甘蔗种植地
+appliedenergistics2:facade:0, 线缆伪装板 - 马铃薯种植地
+appliedenergistics2:facade:0, 线缆伪装板 - 地狱疣种植地
+appliedenergistics2:facade:0, 线缆伪装板 - 葡萄藤种植地
+appliedenergistics2:facade:0, 线缆伪装板 - 玉米种植地
+appliedenergistics2:facade:0, 线缆伪装板 - 可可豆种植地
+appliedenergistics2:facade:0, 线缆伪装板 - 胡萝卜种植地
+appliedenergistics2:facade:0, 线缆伪装板 - 花种植地
+appliedenergistics2:facade:0, 线缆伪装板 - 棉花种植地
+appliedenergistics2:facade:0, 线缆伪装板 - 诺曼挂毯生成方块
+appliedenergistics2:facade:0, 线缆伪装板 - 印度雕像生成方块
+appliedenergistics2:facade:0, 线缆伪装板 - 小拜占庭图腾生成方块
+appliedenergistics2:facade:0, 线缆伪装板 - 中拜占庭图腾生成方块
+appliedenergistics2:facade:0, 线缆伪装板 - 大拜占庭图腾生成方块
+appliedenergistics2:facade:0, 线缆伪装板 - 玛雅浮雕生成方块
+appliedenergistics2:facade:0, 线缆伪装板 - 吊皮生成方块
+appliedenergistics2:facade:0, 线缆伪装板 - 小壁毯生成方块
+appliedenergistics2:facade:0, 线缆伪装板 - 中壁毯生成方块
+appliedenergistics2:facade:0, 线缆伪装板 - 大壁毯生成方块
+appliedenergistics2:facade:0, 线缆伪装板 - Gray Tiles
+appliedenergistics2:facade:0, 线缆伪装板 - Green Tiles
+appliedenergistics2:facade:0, 线缆伪装板 - Red Tiles
 appliedenergistics2:facade:0, 线缆伪装板 - 织布机
 appliedenergistics2:facade:0, 线缆伪装板 - 制箭台
 appliedenergistics2:facade:0, 线缆伪装板 - 锻造台
@@ -2424,7 +2593,7 @@ appliedenergistics2:facade:0, 线缆伪装板 - 荧石沙砾
 appliedenergistics2:facade:0, 线缆伪装板 - 红石沙砾
 appliedenergistics2:facade:0, 线缆伪装板 - 青金石沙砾
 appliedenergistics2:facade:0, 线缆伪装板 - 石英沙砾
-appliedenergistics2:facade:0, 线缆伪装板 - 紫珀矿石（“Chorus Ore”可能指与紫珀块相关的矿石，这里翻译为紫珀矿石，实际可能需要根据游戏内容调整）
+appliedenergistics2:facade:0, 线缆伪装板 - 紫颂果石
 appliedenergistics2:facade:0, 线缆伪装板 - 石英矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 海晶石矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 经验矿石
@@ -3187,46 +3356,46 @@ tconstruct:slime_vine_purple_end:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple_mid:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple:0, 紫色史莱姆藤蔓
 tconstruct:pattern:0, 空白模具
-tconstruct:pattern:0, 手柄模具
-tconstruct:pattern:0, 坚韧手柄模具
-tconstruct:pattern:0, 箭头模具
-tconstruct:pattern:0, 绑定结模具
-tconstruct:pattern:0, 大板模具
-tconstruct:pattern:0, 刀刃模具
-tconstruct:pattern:0, 宽剑刃模具
-tconstruct:pattern:0, 牌板模具
-tconstruct:pattern:0, 箭杆模具
-tconstruct:pattern:0, 胸甲基底模具
-tconstruct:pattern:0, 坚韧绑定结模具
-tconstruct:pattern:0, 抛光工具模具
-tconstruct:pattern:0, 铲头模具
-tconstruct:pattern:0, 锤头模具
-tconstruct:pattern:0, 碎片模具
-tconstruct:pattern:0, 箭羽模具
-tconstruct:pattern:0, 头盔基底模具
 tconstruct:pattern:0, 磨制工具模具
-tconstruct:pattern:0, 十字柄模具
-tconstruct:pattern:0, 弓弦模具
-tconstruct:pattern:0, 盘模具
-tconstruct:pattern:0, 镐头模具
-tconstruct:pattern:0, 鞘模具
-tconstruct:pattern:0, 宽斧刃模具
-tconstruct:pattern:0, 斧刃模具
-tconstruct:pattern:0, 镰刀头模具
-tconstruct:pattern:0, 开掘铲头模具
-tconstruct:pattern:0, 靴子基底模具
-tconstruct:pattern:0, 园艺镰头模具
-tconstruct:pattern:0, 护手模具
-tconstruct:pattern:0, 刀条模具
-tconstruct:pattern:0, 护腿基底模具
-tconstruct:pattern:0, 奇术焦镜模具
-tconstruct:pattern:0, 小板模具
-tconstruct:pattern:0, 弓臂模具
-tconstruct:pattern:0, 剑刃模具
+tconstruct:pattern:0, 绑定结模具
+tconstruct:pattern:0, 头盔基底模具
+tconstruct:pattern:0, 锤头模具
 tconstruct:pattern:0, 握柄模具
-tconstruct:pattern:0, 护甲夹板模具
-tconstruct:pattern:0, 护甲板模具
+tconstruct:pattern:0, 宽斧刃模具
+tconstruct:pattern:0, 抛光工具模具
 tconstruct:pattern:0, 宽护手模具
+tconstruct:pattern:0, 护手模具
+tconstruct:pattern:0, 刀刃模具
+tconstruct:pattern:0, 手柄模具
+tconstruct:pattern:0, 园艺镰头模具
+tconstruct:pattern:0, 护甲夹板模具
+tconstruct:pattern:0, 弓臂模具
+tconstruct:pattern:0, 坚韧手柄模具
+tconstruct:pattern:0, 箭羽模具
+tconstruct:pattern:0, 铲头模具
+tconstruct:pattern:0, 牌板模具
+tconstruct:pattern:0, 奇术焦镜模具
+tconstruct:pattern:0, 十字柄模具
+tconstruct:pattern:0, 护腿基底模具
+tconstruct:pattern:0, 开掘铲头模具
+tconstruct:pattern:0, 鞘模具
+tconstruct:pattern:0, 坚韧绑定结模具
+tconstruct:pattern:0, 刀条模具
+tconstruct:pattern:0, 镰刀头模具
+tconstruct:pattern:0, 护甲板模具
+tconstruct:pattern:0, 宽剑刃模具
+tconstruct:pattern:0, 盘模具
+tconstruct:pattern:0, 大板模具
+tconstruct:pattern:0, 箭头模具
+tconstruct:pattern:0, 斧刃模具
+tconstruct:pattern:0, 小板模具
+tconstruct:pattern:0, 碎片模具
+tconstruct:pattern:0, 剑刃模具
+tconstruct:pattern:0, 弓弦模具
+tconstruct:pattern:0, 靴子基底模具
+tconstruct:pattern:0, 箭杆模具
+tconstruct:pattern:0, 镐头模具
+tconstruct:pattern:0, 胸甲基底模具
 tconstruct:shard:0, 熔融木 碎片
 tconstruct:shard:0, 黑暗木 碎片
 tconstruct:shard:0, 血木 碎片
@@ -7284,88 +7453,88 @@ tconstruct:seared_stairs_road:0, 焦黑铺路石楼梯
 tconstruct:seared_stairs_tile:0, 焦黑瓷砖楼梯
 tconstruct:seared_stairs_creeper:0, 焦黑雕琢楼梯
 tconstruct:cast:0, 空白铸模
-tconstruct:cast:0, 手柄铸模
-tconstruct:cast:0, 坚韧手柄铸模
-tconstruct:cast:0, 箭头铸模
-tconstruct:cast:0, 绑定结铸模
-tconstruct:cast:0, 大板铸模
-tconstruct:cast:0, 刀刃铸模
-tconstruct:cast:0, 宽剑刃铸模
-tconstruct:cast:0, 牌板铸模
-tconstruct:cast:0, 箭杆铸模
-tconstruct:cast:0, 胸甲基底铸模
-tconstruct:cast:0, 坚韧绑定结铸模
-tconstruct:cast:0, 抛光工具铸模
-tconstruct:cast:0, 铲头铸模
-tconstruct:cast:0, 锤头铸模
-tconstruct:cast:0, 碎片铸模
-tconstruct:cast:0, 头盔基底铸模
 tconstruct:cast:0, 磨制工具铸模
-tconstruct:cast:0, 十字柄铸模
-tconstruct:cast:0, 盘铸模
-tconstruct:cast:0, 镐头铸模
-tconstruct:cast:0, 鞘铸模
-tconstruct:cast:0, 宽斧刃铸模
-tconstruct:cast:0, 斧刃铸模
-tconstruct:cast:0, 镰刀头铸模
-tconstruct:cast:0, 开掘铲头铸模
-tconstruct:cast:0, 靴子基底铸模
-tconstruct:cast:0, 园艺镰头铸模
-tconstruct:cast:0, 护手铸模
-tconstruct:cast:0, 刀条铸模
-tconstruct:cast:0, 护腿基底铸模
-tconstruct:cast:0, 奇术焦镜铸模
-tconstruct:cast:0, 小板铸模
-tconstruct:cast:0, 弓臂铸模
-tconstruct:cast:0, 剑刃铸模
+tconstruct:cast:0, 绑定结铸模
+tconstruct:cast:0, 头盔基底铸模
+tconstruct:cast:0, 锤头铸模
 tconstruct:cast:0, 握柄铸模
-tconstruct:cast:0, 护甲夹板铸模
-tconstruct:cast:0, 护甲板铸模
+tconstruct:cast:0, 宽斧刃铸模
+tconstruct:cast:0, 抛光工具铸模
 tconstruct:cast:0, 宽护手铸模
+tconstruct:cast:0, 护手铸模
+tconstruct:cast:0, 刀刃铸模
+tconstruct:cast:0, 手柄铸模
+tconstruct:cast:0, 园艺镰头铸模
+tconstruct:cast:0, 护甲夹板铸模
+tconstruct:cast:0, 弓臂铸模
+tconstruct:cast:0, 坚韧手柄铸模
+tconstruct:cast:0, 铲头铸模
+tconstruct:cast:0, 牌板铸模
+tconstruct:cast:0, 奇术焦镜铸模
+tconstruct:cast:0, 十字柄铸模
+tconstruct:cast:0, 护腿基底铸模
+tconstruct:cast:0, 开掘铲头铸模
+tconstruct:cast:0, 鞘铸模
+tconstruct:cast:0, 坚韧绑定结铸模
+tconstruct:cast:0, 刀条铸模
+tconstruct:cast:0, 镰刀头铸模
+tconstruct:cast:0, 护甲板铸模
+tconstruct:cast:0, 宽剑刃铸模
+tconstruct:cast:0, 盘铸模
+tconstruct:cast:0, 大板铸模
+tconstruct:cast:0, 箭头铸模
+tconstruct:cast:0, 斧刃铸模
+tconstruct:cast:0, 小板铸模
+tconstruct:cast:0, 碎片铸模
+tconstruct:cast:0, 剑刃铸模
+tconstruct:cast:0, 靴子基底铸模
+tconstruct:cast:0, 箭杆铸模
+tconstruct:cast:0, 镐头铸模
+tconstruct:cast:0, 胸甲基底铸模
 tconstruct:cast_custom:0, 锭铸模
 tconstruct:cast_custom:1, 粒铸模
 tconstruct:cast_custom:2, 宝石铸模
 tconstruct:cast_custom:3, 板铸模
 tconstruct:cast_custom:4, 齿轮铸模
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, 手柄粘土铸模
-tconstruct:clay_cast:0, 坚韧手柄粘土铸模
-tconstruct:clay_cast:0, 箭头粘土铸模
-tconstruct:clay_cast:0, 绑定结粘土铸模
-tconstruct:clay_cast:0, 大板粘土铸模
-tconstruct:clay_cast:0, 刀刃粘土铸模
-tconstruct:clay_cast:0, 宽剑刃粘土铸模
-tconstruct:clay_cast:0, 牌板粘土铸模
-tconstruct:clay_cast:0, 箭杆粘土铸模
-tconstruct:clay_cast:0, 胸甲基底粘土铸模
-tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
-tconstruct:clay_cast:0, 抛光工具粘土铸模
-tconstruct:clay_cast:0, 铲头粘土铸模
-tconstruct:clay_cast:0, 锤头粘土铸模
-tconstruct:clay_cast:0, 碎片粘土铸模
-tconstruct:clay_cast:0, 头盔基底粘土铸模
 tconstruct:clay_cast:0, 磨制工具粘土铸模
-tconstruct:clay_cast:0, 十字柄粘土铸模
-tconstruct:clay_cast:0, 盘粘土铸模
-tconstruct:clay_cast:0, 镐头粘土铸模
-tconstruct:clay_cast:0, 鞘粘土铸模
-tconstruct:clay_cast:0, 宽斧刃粘土铸模
-tconstruct:clay_cast:0, 斧刃粘土铸模
-tconstruct:clay_cast:0, 镰刀头粘土铸模
-tconstruct:clay_cast:0, 开掘铲头粘土铸模
-tconstruct:clay_cast:0, 靴子基底粘土铸模
-tconstruct:clay_cast:0, 园艺镰头粘土铸模
-tconstruct:clay_cast:0, 护手粘土铸模
-tconstruct:clay_cast:0, 刀条粘土铸模
-tconstruct:clay_cast:0, 护腿基底粘土铸模
-tconstruct:clay_cast:0, 奇术焦镜粘土铸模
-tconstruct:clay_cast:0, 小板粘土铸模
-tconstruct:clay_cast:0, 弓臂粘土铸模
-tconstruct:clay_cast:0, 剑刃粘土铸模
+tconstruct:clay_cast:0, 绑定结粘土铸模
+tconstruct:clay_cast:0, 头盔基底粘土铸模
+tconstruct:clay_cast:0, 锤头粘土铸模
 tconstruct:clay_cast:0, 握柄粘土铸模
-tconstruct:clay_cast:0, 护甲夹板粘土铸模
-tconstruct:clay_cast:0, 护甲板粘土铸模
+tconstruct:clay_cast:0, 宽斧刃粘土铸模
+tconstruct:clay_cast:0, 抛光工具粘土铸模
 tconstruct:clay_cast:0, 宽护手粘土铸模
+tconstruct:clay_cast:0, 护手粘土铸模
+tconstruct:clay_cast:0, 刀刃粘土铸模
+tconstruct:clay_cast:0, 手柄粘土铸模
+tconstruct:clay_cast:0, 园艺镰头粘土铸模
+tconstruct:clay_cast:0, 护甲夹板粘土铸模
+tconstruct:clay_cast:0, 弓臂粘土铸模
+tconstruct:clay_cast:0, 坚韧手柄粘土铸模
+tconstruct:clay_cast:0, 铲头粘土铸模
+tconstruct:clay_cast:0, 牌板粘土铸模
+tconstruct:clay_cast:0, 奇术焦镜粘土铸模
+tconstruct:clay_cast:0, 十字柄粘土铸模
+tconstruct:clay_cast:0, 护腿基底粘土铸模
+tconstruct:clay_cast:0, 开掘铲头粘土铸模
+tconstruct:clay_cast:0, 鞘粘土铸模
+tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
+tconstruct:clay_cast:0, 刀条粘土铸模
+tconstruct:clay_cast:0, 镰刀头粘土铸模
+tconstruct:clay_cast:0, 护甲板粘土铸模
+tconstruct:clay_cast:0, 宽剑刃粘土铸模
+tconstruct:clay_cast:0, 盘粘土铸模
+tconstruct:clay_cast:0, 大板粘土铸模
+tconstruct:clay_cast:0, 箭头粘土铸模
+tconstruct:clay_cast:0, 斧刃粘土铸模
+tconstruct:clay_cast:0, 小板粘土铸模
+tconstruct:clay_cast:0, 碎片粘土铸模
+tconstruct:clay_cast:0, 剑刃粘土铸模
+tconstruct:clay_cast:0, 靴子基底粘土铸模
+tconstruct:clay_cast:0, 箭杆粘土铸模
+tconstruct:clay_cast:0, 镐头粘土铸模
+tconstruct:clay_cast:0, 胸甲基底粘土铸模
 tconstruct:stone_torch:0, 石柄火把
 tconstruct:stone_ladder:0, 石梯
 tconstruct:punji:0, 尖竹钉
@@ -9102,6 +9271,455 @@ conarm:armorforge:0, 盔甲装配台
 conarm:armorforge:0, 盔甲装配台
 conarm:armorstation:0, 盔甲组装台
 baubles:ring:0, 矿工指环
+millenaire:wood_deco:0, 横木框架
+millenaire:wood_deco:1, 斜木框架
+millenaire:wood_deco:2, 茅草
+millenaire:wood_deco:3, Beehive
+millenaire:stone_deco:0, 泥砖
+millenaire:stone_deco:2, 玛雅黄金饰品
+millenaire:stone_deco:3, 拜占庭马赛克
+millenaire:stone_deco:4, 拜占庭壁画
+millenaire:stone_deco:5, Light Blue Concrete Brick
+millenaire:stone_deco:6, Light Blue Chiseled Concrete
+millenaire:earth_deco:0, 泥墙
+millenaire:wall_mud_brick, 泥砖墙
+millenaire:stairs_painted_brick_white, 白色涂料楼梯
+millenaire:stairs_painted_brick_yellow, 黄色涂料楼梯
+millenaire:stairs_painted_brick_green, 绿色涂料楼梯
+millenaire:stairs_painted_brick_magenta, 品红色涂料楼梯
+millenaire:stairs_painted_brick_gray, 灰色涂料楼梯
+millenaire:stairs_painted_brick_brown, 棕色涂料楼梯
+millenaire:stairs_painted_brick_silver, 银色涂料楼梯
+millenaire:stairs_painted_brick_lime, 黄绿色涂料楼梯
+millenaire:stairs_painted_brick_orange, 橙色涂料楼梯
+millenaire:stairs_painted_brick_light_blue, 淡蓝色涂料楼梯
+millenaire:stairs_painted_brick_pink, 粉红色涂料楼梯
+millenaire:stairs_painted_brick_purple, 紫色涂料楼梯
+millenaire:stairs_painted_brick_blue, 蓝色涂料楼梯
+millenaire:stairs_painted_brick_black, 黑色涂料楼梯
+millenaire:stairs_painted_brick_red, 红色涂料楼梯
+millenaire:stairs_painted_brick_cyan, 青色涂料楼梯
+millenaire:painted_brick_white, 白色涂料砖
+millenaire:painted_brick_yellow, 黄色涂料砖
+millenaire:painted_brick_green, 绿色涂料砖
+millenaire:painted_brick_magenta, 品红色涂料砖
+millenaire:painted_brick_gray, 灰色涂料砖
+millenaire:painted_brick_brown, 棕色涂料砖
+millenaire:painted_brick_silver, 银色涂料砖
+millenaire:painted_brick_lime, 黄绿色涂料砖
+millenaire:painted_brick_orange, 橙色涂料砖
+millenaire:painted_brick_light_blue, 淡蓝色涂料砖
+millenaire:painted_brick_pink, 粉红色涂料砖
+millenaire:painted_brick_purple, 紫色涂料砖
+millenaire:painted_brick_blue, 蓝色涂料砖
+millenaire:painted_brick_black, 黑色涂料砖
+millenaire:painted_brick_red, 红色涂料砖
+millenaire:painted_brick_cyan, 青色涂料砖
+millenaire:wall_painted_brick_white, 白色涂料墙
+millenaire:wall_painted_brick_yellow, 黄色涂料墙
+millenaire:wall_painted_brick_green, 绿色涂料墙
+millenaire:wall_painted_brick_magenta, 品红色涂料墙
+millenaire:wall_painted_brick_gray, 灰色涂料墙
+millenaire:wall_painted_brick_brown, 棕色涂料墙
+millenaire:wall_painted_brick_silver, 银色涂料墙
+millenaire:wall_painted_brick_lime, 黄绿色涂料墙
+millenaire:wall_painted_brick_orange, 橙色涂料墙
+millenaire:wall_painted_brick_light_blue, 淡蓝色涂料墙
+millenaire:wall_painted_brick_pink, 粉红色涂料墙
+millenaire:wall_painted_brick_purple, 紫色涂料墙
+millenaire:wall_painted_brick_blue, 蓝色涂料墙
+millenaire:wall_painted_brick_black, 黑色涂料墙
+millenaire:wall_painted_brick_red, 红色涂料墙
+millenaire:wall_painted_brick_cyan, 青色涂料墙
+millenaire:slab_painted_brick_white, 白色涂料台阶
+millenaire:slab_painted_brick_yellow, 黄色涂料台阶
+millenaire:slab_painted_brick_green, 绿色涂料台阶
+millenaire:slab_painted_brick_magenta, 品红色涂料台阶
+millenaire:slab_painted_brick_gray, 灰色涂料台阶
+millenaire:slab_painted_brick_brown, 棕色涂料台阶
+millenaire:slab_painted_brick_silver, 银色涂料台阶
+millenaire:slab_painted_brick_lime, 黄绿色涂料台阶
+millenaire:slab_painted_brick_orange, 橙色涂料台阶
+millenaire:slab_painted_brick_light_blue, 淡蓝色涂料台阶
+millenaire:slab_painted_brick_pink, 粉红色涂料台阶
+millenaire:slab_painted_brick_purple, 紫色涂料台阶
+millenaire:slab_painted_brick_blue, 蓝色涂料台阶
+millenaire:slab_painted_brick_black, 黑色涂料台阶
+millenaire:slab_painted_brick_red, 红色涂料台阶
+millenaire:slab_painted_brick_cyan, 青色涂料台阶
+millenaire:painted_brick_decorated_white, 白色涂料装饰砖
+millenaire:painted_brick_decorated_yellow, 黄色涂料装饰砖
+millenaire:painted_brick_decorated_green, 绿色涂料装饰砖
+millenaire:painted_brick_decorated_magenta, 品红色涂料装饰砖
+millenaire:painted_brick_decorated_gray, 灰色涂料装饰砖
+millenaire:painted_brick_decorated_brown, 棕色涂料装饰砖
+millenaire:painted_brick_decorated_silver, 银色涂料装饰砖
+millenaire:painted_brick_decorated_lime, 黄绿色涂料装饰砖
+millenaire:painted_brick_decorated_orange, 橙色涂料装饰砖
+millenaire:painted_brick_decorated_light_blue, 淡蓝色涂料装饰砖
+millenaire:painted_brick_decorated_pink, 粉红色涂料装饰砖
+millenaire:painted_brick_decorated_purple, 紫色涂料装饰砖
+millenaire:painted_brick_decorated_blue, 蓝色涂料装饰砖
+millenaire:painted_brick_decorated_black, 黑色涂料装饰砖
+millenaire:painted_brick_decorated_red, 红色涂料装饰砖
+millenaire:painted_brick_decorated_cyan, 青色涂料装饰砖
+millenaire:extended_mud_brick:0, 光滑泥砖
+millenaire:extended_mud_brick:1, 粉刷装饰泥砖
+millenaire:extended_mud_brick:2, 装饰泥砖
+millenaire:slab_wood_deco:0, 横木框架台阶
+millenaire:slab_wood_deco:2, 茅草台阶
+millenaire:slab_stone_deco:0, 泥砖台阶
+millenaire:slab_stone_deco:1, 熟砖台阶
+millenaire:stained_glass:0, 白色玻璃窗
+millenaire:stained_glass:1, 黄色玻璃窗
+millenaire:stained_glass:2, 黄红色玻璃窗
+millenaire:stained_glass:3, 红蓝色玻璃窗
+millenaire:stained_glass:4, 蓝绿色玻璃窗
+millenaire:rosette, 玫瑰色玻璃窗
+millenaire:stairs_mudbrick, 泥砖楼梯
+millenaire:stairs_timberframe, 横木框架楼梯
+millenaire:stairs_thatch, 茅草楼梯
+millenaire:stairs_byzantine_tiles, 拜占庭瓷砖楼梯
+millenaire:wet_brick:0, 湿砖
+millenaire:silk_worm:0, 空桑蚕块
+millenaire:silk_worm:3, 桑蚕块
+millenaire:snail_soil:0, 空蜗牛土
+millenaire:snail_soil:3, 蜗牛土
+millenaire:sandstone_carved, 砂岩雕刻石
+millenaire:sandstone_red_carved, 红砂岩雕刻石
+millenaire:sandstone_ochre_carved, 赭色砂岩雕刻石
+millenaire:stairs_sandstone_carved, 砂岩雕刻楼梯
+millenaire:stairs_sandstone_red_carved, 红砂岩雕刻楼梯
+millenaire:stairs_sandstone_ochre_carved, 赭色砂岩雕刻楼梯
+millenaire:slab_sandstone_carved, 砂岩雕刻台阶
+millenaire:slab_sandstone_red_carved, 红砂岩雕刻台阶
+millenaire:slab_sandstone_ochre_carved, 赭色砂岩雕刻台阶
+millenaire:wall_sandstone_carved, 砂岩雕刻墙
+millenaire:wall_sandstone_red_carved, 红砂岩雕刻墙
+millenaire:wall_sandstone_ochre_carved, 赭色砂岩雕刻墙
+millenaire:pathdirt, 泥土路
+millenaire:pathgravel, 沙砾路
+millenaire:pathsandstone, 砂岩路
+millenaire:pathslabs, 石板路
+millenaire:pathgravelslabs, 沙砾石板路
+millenaire:pathochretiles, 赭色石板路
+millenaire:pathsnow, 雪砖路
+millenaire:pathdirt_slab, 泥土路
+millenaire:pathgravel_slab, 沙砾路
+millenaire:pathsandstone_slab, 砂岩路
+millenaire:pathslabs_slab, 石板路
+millenaire:pathgravelslabs_slab, 沙砾石板路
+millenaire:pathochretiles_slab, 赭色石板路
+millenaire:pathsnow_slab, 雪砖路
+millenaire:paper_wall, 纸墙
+millenaire:wooden_bars, 木条
+millenaire:wooden_bars_indian, 印度雕刻窗
+millenaire:wooden_bars_rosette, 印度雕刻框架
+millenaire:locked_chest, 上锁的箱子
+millenaire:byzantine_stone_tiles, 拜占庭石砖
+millenaire:byzantine_sandstone_tiles, 拜占庭砂岩砖
+millenaire:byzantine_stone_ornament, 拜占庭石砖装饰
+millenaire:byzantine_sandstone_ornament, 拜占庭砂岩砖装饰
+millenaire:byzantine_tiles, 拜占庭瓷砖
+millenaire:byzantine_tiles_slab:0, 拜占庭瓷砖台阶
+millenaire:alchemistexplosive, 炼金术士炸药
+millenaire:sod:0, 橡木草皮木板
+millenaire:sod:1, 云杉草皮木板
+millenaire:sod:2, 白桦草皮木板
+millenaire:sod:3, 丛林草皮木板
+millenaire:sod:4, 金合欢草皮木板
+millenaire:sod:5, 深色橡木草皮木板
+millenaire:icebrick, 冰砖
+millenaire:snowbrick, 雪砖
+millenaire:inuitcarving, 因纽特雕刻物
+millenaire:snowwall, 雪砖墙
+millenaire:bed_straw, 麦秸床
+millenaire:bed_charpoy, 轻便床
+millenaire:import_table, 输入桌
+millenaire:sapling_appletree, 苹果树苗
+millenaire:leaves_appletree, 苹果树叶
+millenaire:sapling_olivetree, 橄榄树苗
+millenaire:leaves_olivetree, 橄榄树叶
+millenaire:sapling_pistachio, 开心果树苗
+millenaire:leaves_pistachio, 开心果树叶
+millenaire:markerblock:0, 地点标识方块
+millenaire:markerblock:1, 睡觉点
+millenaire:markerblock:2, 交易点
+millenaire:markerblock:3, 制作点
+millenaire:markerblock:4, 保卫点
+millenaire:markerblock:5, 庇护点
+millenaire:markerblock:6, 路径开始点
+millenaire:markerblock:7, 聊天点
+millenaire:markerblock:8, 摆摊点
+millenaire:markerblock:9, 烘干点
+millenaire:markerblock:10, 治疗点
+millenaire:markerblock:11, 钓鱼点
+millenaire:mainchest, 主箱
+millenaire:animalspawn:0, 牛生产点
+millenaire:animalspawn:1, 猪生产点
+millenaire:animalspawn:2, 羊生产点
+millenaire:animalspawn:3, 鸡生产点
+millenaire:animalspawn:4, 鱿鱼生产点
+millenaire:animalspawn:5, 狼生产点
+millenaire:animalspawn:6, 北极熊生产点
+millenaire:source:0, 石头源方块
+millenaire:source:1, 沙子源方块
+millenaire:source:2, 砂岩源方块
+millenaire:source:3, 粘土源方块
+millenaire:source:4, 沙砾源方块
+millenaire:source:5, 花岗岩源方块
+millenaire:source:6, 闪长岩源方块
+millenaire:source:7, 安山岩源方块
+millenaire:source:8, 雪源方块
+millenaire:source:9, 冰源方块
+millenaire:source:10, 红砂岩源方块
+millenaire:source:11, 石英源方块
+millenaire:freeblock:0, 自由石头
+millenaire:freeblock:1, 自由沙子
+millenaire:freeblock:2, 自由沙砾
+millenaire:freeblock:3, 自由砂岩
+millenaire:freeblock:4, 自由羊毛
+millenaire:freeblock:5, 自由圆石
+millenaire:freeblock:6, 自由石砖
+millenaire:freeblock:7, 自由彩砖
+millenaire:freeblock:8, 自由草方块
+millenaire:treespawn:0, 橡树生长点
+millenaire:treespawn:1, 松树生长点
+millenaire:treespawn:2, 白桦树生长点
+millenaire:treespawn:3, 丛林树生长点
+millenaire:treespawn:4, 金合欢树生长点
+millenaire:treespawn:5, 深色橡树生长点
+millenaire:treespawn:6, 苹果树生长点
+millenaire:treespawn:7, 开心果树生长点
+millenaire:treespawn:8, 橄榄树生长点
+millenaire:treespawn:9, Cherry Tree Spawn Point
+millenaire:treespawn:10, Sakura Tree Spawn Point
+millenaire:soil:0, 小麦种植地
+millenaire:soil:1, 稻米种植地
+millenaire:soil:2, 姜黄种植地
+millenaire:soil:3, 甘蔗种植地
+millenaire:soil:4, 马铃薯种植地
+millenaire:soil:5, 地狱疣种植地
+millenaire:soil:6, 葡萄藤种植地
+millenaire:soil:7, 玉米种植地
+millenaire:soil:8, 可可豆种植地
+millenaire:soil:9, 胡萝卜种植地
+millenaire:soil:10, 花种植地
+millenaire:soil:11, 棉花种植地
+millenaire:decorblock:0, 诺曼挂毯生成方块
+millenaire:decorblock:1, 印度雕像生成方块
+millenaire:decorblock:2, 小拜占庭图腾生成方块
+millenaire:decorblock:3, 中拜占庭图腾生成方块
+millenaire:decorblock:4, 大拜占庭图腾生成方块
+millenaire:decorblock:5, 玛雅浮雕生成方块
+millenaire:decorblock:6, 吊皮生成方块
+millenaire:decorblock:7, 小壁毯生成方块
+millenaire:decorblock:8, 中壁毯生成方块
+millenaire:decorblock:9, 大壁毯生成方块
+millenaire:villagebanner, 村庄旗帜
+millenaire:culturebanner, 文明旗帜
+millenaire:fire_pit, 篝火
+millenaire:stairs_gray_tiles, Gray Tiles Stairs
+millenaire:stairs_green_tiles, Green Tiles Stairs
+millenaire:stairs_red_tiles, Red Tiles Stairs
+millenaire:gray_tiles, Gray Tiles
+millenaire:green_tiles, Green Tiles
+millenaire:red_tiles, Red Tiles
+millenaire:gray_tiles_slab:0, Gray Tile Slab
+millenaire:green_tiles_slab:0, Green Tile Slab
+millenaire:red_tiles_slab:0, Red Tile Slab
+millenaire:wooden_bars_dark, Carved Dark Window
+millenaire:sapling_cherry, Cherry Tree Sapling
+millenaire:cherry_leaves, Cherry Tree Leaves
+millenaire:sapling_sakura, Sakura Tree Sapling
+millenaire:sakura_leaves, Sakura Tree Leaves
+millenaire:summoningwand, 召唤权杖
+millenaire:negationwand, 否定权杖
+millenaire:denier, 迪奈尔铜币
+millenaire:denierargent, 迪奈尔银币
+millenaire:denieror, 迪奈尔金币
+millenaire:purse, 钱包
+millenaire:rice, 稻米
+millenaire:turmeric, 姜黄
+millenaire:maize, 玉米
+millenaire:grapes, 葡萄
+millenaire:cotton, 棉花
+millenaire:normanpickaxe, 诺曼镐
+millenaire:normanaxe, 诺曼斧
+millenaire:normanshovel, 诺曼锹
+millenaire:normanhoe, 诺曼锄
+millenaire:mayanpickaxe, 黑曜石镐
+millenaire:mayanaxe, 黑曜石斧
+millenaire:mayanshovel, 黑曜石锹
+millenaire:mayanhoe, 黑曜石锄
+millenaire:byzantinepickaxe, 拜占庭镐
+millenaire:byzantineaxe, 拜占庭斧
+millenaire:byzantineshovel, 拜占庭锹
+millenaire:byzantinehoe, 拜占庭锄
+millenaire:normanbroadsword, 诺曼宽剑
+millenaire:mayanmace, 黑曜石锤
+millenaire:tachisword, 太刀
+millenaire:byzantinemace, 拜占庭权杖
+millenaire:inuittrident, 卡基瓦克
+millenaire:seljukscimitar, 塞尔柱弯刀
+millenaire:yumibow, 和弓
+millenaire:inuitbow, 皮提克西弓
+millenaire:seljukbow, 塞尔柱弓
+millenaire:normanhelmet, 诺曼头盔
+millenaire:normanplate, 诺曼胸甲
+millenaire:normanlegs, 诺曼护腿
+millenaire:normanboots, 诺曼靴子
+millenaire:japanesebluehelmet, 蓝胴丸头盔
+millenaire:japaneseblueplate, 蓝胴丸胸甲
+millenaire:japanesebluelegs, 蓝胴丸护腿
+millenaire:japaneseblueboots, 蓝胴丸靴子
+millenaire:japaneseredhelmet, 红胴丸头盔
+millenaire:japaneseredplate, 红胴丸胸甲
+millenaire:japaneseredlegs, 红胴丸护腿
+millenaire:japaneseredboots, 红胴丸靴子
+millenaire:japaneseguardhelmet, 和式守卫头盔
+millenaire:japaneseguardplate, 和式守卫胸甲
+millenaire:japaneseguardlegs, 和式守卫护腿
+millenaire:japaneseguardboots, 和式守卫靴子
+millenaire:byzantinehelmet, 拜占庭头盔
+millenaire:byzantineplate, 拜占庭胸甲
+millenaire:byzantinelegs, 拜占庭护腿
+millenaire:byzantineboots, 拜占庭靴子
+millenaire:furhelmet, 毛皮帽
+millenaire:furplate, 毛皮衣
+millenaire:furlegs, 毛皮护腿
+millenaire:furboots, 毛皮靴子
+millenaire:seljukhelmet, 塞尔柱头盔
+millenaire:seljukturban, 塞尔柱头巾
+millenaire:seljukplate, 塞尔柱胸甲
+millenaire:seljuklegs, 塞尔柱护腿
+millenaire:seljukboots, 塞尔柱靴子
+millenaire:ciderapple, 青苹果
+millenaire:olives, 橄榄
+millenaire:oliveoil, 橄榄油
+millenaire:cider, 苹果酒
+millenaire:calva, 苹果白兰地酒
+millenaire:boudin, 黑香肠
+millenaire:tripes, 牛肚
+millenaire:vegcurry, 素食咖喱
+millenaire:chickencurry, 咖喱鸡
+millenaire:rasgulla, 奶豆腐汤圆
+millenaire:masa, 玉米薄饼
+millenaire:wah, 鸡肉卷
+millenaire:balche, Balché
+millenaire:sikilpah, Sikil Pah
+millenaire:cacauhaa, 热可可
+millenaire:udon, 乌冬面
+millenaire:sake, 米酒
+millenaire:ikayaki, 鱿鱼烧
+millenaire:feta, 羊乳酪
+millenaire:souvlaki, 羊肉串
+millenaire:winebasic, 葡萄酒
+millenaire:winefancy, 马尔瓦西亚酒
+millenaire:bearmeat_raw, 生熊肉
+millenaire:bearmeat_cooked, 熟熊肉
+millenaire:wolfmeat_raw, 生狼肉
+millenaire:wolfmeat_cooked, 熟狼肉
+millenaire:seafood_raw, 生海鲜
+millenaire:seafood_cooked, 熟海鲜
+millenaire:inuitpotatostew, 因纽特炖马铃薯
+millenaire:inuitmeatystew, 因纽特炖肉
+millenaire:inuitbearstew, 因纽特炖熊
+millenaire:ayran, 艾兰
+millenaire:yogurt, 酸奶
+millenaire:pide, 土耳其披萨
+millenaire:lokum, 软糖
+millenaire:helva, 哈尔瓦酥糖
+millenaire:pistachios, 开心果
+millenaire:cherries, Cherries
+millenaire:cherry_blossom, Cherry Blossom
+millenaire:tapestry, 诺曼挂毯
+millenaire:indianstatue, 印度雕像
+millenaire:mayanstatue, 玛雅浮雕
+millenaire:byzantineiconsmall, 小拜占庭图腾
+millenaire:byzantineiconmedium, 中拜占庭图腾
+millenaire:byzantineiconlarge, 大拜占庭图腾
+millenaire:hidehanging, 吊皮
+millenaire:wallcarpetsmall, 小壁毯
+millenaire:wallcarpetmedium, 中壁毯
+millenaire:wallcarpetlarge, 大壁毯
+millenaire:paint_bucket_white, 白色涂料桶
+millenaire:paint_bucket_orange, 橙色涂料桶
+millenaire:paint_bucket_magenta, 品红色涂料桶
+millenaire:paint_bucket_light_blue, 淡蓝色涂料桶
+millenaire:paint_bucket_yellow, 黄色涂料桶
+millenaire:paint_bucket_lime, 黄绿色涂料桶
+millenaire:paint_bucket_pink, 粉红色涂料桶
+millenaire:paint_bucket_gray, 灰色涂料桶
+millenaire:paint_bucket_silver, 银色涂料桶
+millenaire:paint_bucket_cyan, 青色涂料桶
+millenaire:paint_bucket_purple, 紫色涂料桶
+millenaire:paint_bucket_blue, 蓝色涂料桶
+millenaire:paint_bucket_brown, 棕色涂料桶
+millenaire:paint_bucket_green, 绿色涂料桶
+millenaire:paint_bucket_red, 红色涂料桶
+millenaire:paint_bucket_black, 黑色涂料桶
+millenaire:parchment_normanvillagers, 诺曼村民卷轴
+millenaire:parchment_normanbuildings, 诺曼建筑卷轴
+millenaire:parchment_normanitems, 诺曼物品卷轴
+millenaire:parchment_normanfull, 完整的诺曼卷轴
+millenaire:parchment_indianvillagers, 印度村民卷轴
+millenaire:parchment_indianbuildings, 印度建筑卷轴
+millenaire:parchment_indianitems, 印度物品卷轴
+millenaire:parchment_indianfull, 完整的印度卷轴
+millenaire:parchment_mayanvillagers, 玛雅村民卷轴
+millenaire:parchment_mayanbuildings, 玛雅建筑卷轴
+millenaire:parchment_mayanitems, 玛雅物品卷轴
+millenaire:parchment_mayanfull, 完整的玛雅卷轴
+millenaire:parchment_japanesevillagers, 日本村民卷轴
+millenaire:parchment_japanesebuildings, 日本建筑卷轴
+millenaire:parchment_japaneseitems, 日本物品卷轴
+millenaire:parchment_japanesefull, 完整的日本卷轴
+millenaire:parchment_villagescroll, 村庄卷轴
+millenaire:brickmould, 砖头模具
+millenaire:obsidianflake, 黑曜石片
+millenaire:silk, 蚕丝
+millenaire:clothes_byz_wool, 拜占庭羊毛编织衣
+millenaire:clothes_byz_silk, 拜占庭丝绸编织衣
+millenaire:clothes_seljuk_wool, 塞尔柱羊毛编织衣
+millenaire:clothes_seljuk_cotton, 塞尔柱棉编织衣
+millenaire:vishnu_amulet, 毗湿奴护符
+millenaire:alchemist_amulet, 炼金术士护符
+millenaire:yggdrasil_amulet, 世界树护符
+millenaire:skoll_hati_amulet, 凶狼护符
+millenaire:ulu, 乌卢
+millenaire:tannedhide, 加工皮革
+millenaire:bannerpattern:0, 拜占庭鹰图案
+millenaire:bannerpattern:1, 拜占庭右弓形线图案
+millenaire:bannerpattern:2, 拜占庭左弓形线图案
+millenaire:bannerpattern:3, 塞尔柱鹰图案
+millenaire:bannerpattern:4, 玛雅脸部图案
+millenaire:bannerpattern:5, 因纽特石堆图案
+millenaire:bannerpattern:6, 印度太阳图案
+millenaire:bannerpattern:7, 印度短刀图案
+millenaire:bannerpattern:8, 印度大象图案
+millenaire:bannerpattern:9, 印度贝壳图案
+millenaire:bannerpattern:10, 印度牛图案
+millenaire:bannerpattern:11, 印度荷花图案
+millenaire:bannerpattern:12, 诺曼狮子图案
+millenaire:bannerpattern:13, 玛雅线型图案
+millenaire:bannerpattern:14, 玛雅妖术图案
+millenaire:bannerpattern:15, 玛雅头颅图案
+millenaire:bannerpattern:16, 玛雅飞船图案
+millenaire:bannerpattern:17, 因纽特弧线图案
+millenaire:bannerpattern:18, 因纽特线型图案
+millenaire:bannerpattern:19, 因纽特美人鱼图案
+millenaire:bannerpattern:20, 因纽特矩形图案
+millenaire:bannerpattern:21, 日本太阳图案
+millenaire:bannerpattern:22, 日本农业文字
+millenaire:bannerpattern:23, 日本军事文字
+millenaire:bannerpattern:24, 日本宗教文字
+millenaire:bannerpattern:25, 日本贸易文字
+millenaire:bannerpattern:26, 塞尔柱宗教图案
+millenaire:bannerpattern:27, 塞尔柱军事图案
+millenaire:parchment_sadhu, 圣者之书
+millenaire:unknownpowder, 不明粉末
+millenaire:mayanquestcrown, 玛雅王冠
 travelersbackpack:travelers_backpack:0, 旅行者背包
 travelersbackpack:travelers_backpack:1, 旅行者背包
 travelersbackpack:travelers_backpack:2, 旅行者背包
@@ -9183,6 +9801,34 @@ travelersbackpack:backpack_tank, 背包储罐
 travelersbackpack:sleeping_bag_bottom, 睡袋
 travelersbackpack:hose_nozzle, 水管口
 travelersbackpack:hose, 水管
+ironfurnaces:iron_furnace_idle, Iron Furnace
+ironfurnaces:iron_furnace_active, Iron Furnace
+ironfurnaces:gold_furnace_idle, Gold Furnace
+ironfurnaces:gold_furnace_active, Gold Furnace
+ironfurnaces:diamond_furnace_idle, Diamond Furnace
+ironfurnaces:diamond_furnace_active, Diamond Furnace
+ironfurnaces:glass_furnace_idle, Glass Furnace
+ironfurnaces:glass_furnace_active, Glass Furnace
+ironfurnaces:obsidian_furnace_idle, Obsidian Furnace
+ironfurnaces:obsidian_furnace_active, Obsidian Furnace
+ironchest:iron_gold_chest_upgrade, 升级：铁>金
+ironchest:gold_diamond_chest_upgrade, 升级：金>钻石
+ironchest:copper_silver_chest_upgrade, 升级：铜>银
+ironchest:silver_gold_chest_upgrade, 升级：银>金
+ironchest:copper_iron_chest_upgrade, 升级：铜>铁
+ironchest:diamond_crystal_chest_upgrade, 升级：钻石>水晶
+ironchest:wood_iron_chest_upgrade, 升级：木>铁
+ironchest:wood_copper_chest_upgrade, 升级：木>铜
+ironchest:diamond_obsidian_chest_upgrade, 升级：钻石>黑曜石
+ironchest:iron_gold_shulker_upgrade, 升级：铁质>金质潜影盒
+ironchest:gold_diamond_shulker_upgrade, 升级：金质>钻石潜影盒
+ironchest:copper_silver_shulker_upgrade, 升级：铜质>银质潜影盒
+ironchest:silver_gold_shulker_upgrade, 升级：银质>金质潜影盒
+ironchest:copper_iron_shulker_upgrade, 升级：铜质>铁质潜影盒
+ironchest:diamond_crystal_shulker_upgrade, 升级：钻石>水晶潜影盒
+ironchest:vanilla_iron_shulker_upgrade, 升级：原版>铁质潜影盒
+ironchest:vanilla_copper_shulker_upgrade, 升级：原版>铜质潜影盒
+ironchest:diamond_obsidian_shulker_upgrade, 升级：钻石>黑曜石潜影盒
 ironchest:iron_chest:0, 铁箱子
 ironchest:iron_chest:1, 金箱子
 ironchest:iron_chest:2, 钻石箱子
@@ -9303,24 +9949,6 @@ ironchest:iron_shulker_box_black:3, 黑色铜质潜影盒
 ironchest:iron_shulker_box_black:4, 黑色银质潜影盒
 ironchest:iron_shulker_box_black:5, 黑色水晶潜影盒
 ironchest:iron_shulker_box_black:6, 黑色黑曜石潜影盒
-ironchest:iron_gold_chest_upgrade, 升级：铁>金
-ironchest:gold_diamond_chest_upgrade, 升级：金>钻石
-ironchest:copper_silver_chest_upgrade, 升级：铜>银
-ironchest:silver_gold_chest_upgrade, 升级：银>金
-ironchest:copper_iron_chest_upgrade, 升级：铜>铁
-ironchest:diamond_crystal_chest_upgrade, 升级：钻石>水晶
-ironchest:wood_iron_chest_upgrade, 升级：木>铁
-ironchest:wood_copper_chest_upgrade, 升级：木>铜
-ironchest:diamond_obsidian_chest_upgrade, 升级：钻石>黑曜石
-ironchest:iron_gold_shulker_upgrade, 升级：铁质>金质潜影盒
-ironchest:gold_diamond_shulker_upgrade, 升级：金质>钻石潜影盒
-ironchest:copper_silver_shulker_upgrade, 升级：铜质>银质潜影盒
-ironchest:silver_gold_shulker_upgrade, 升级：银质>金质潜影盒
-ironchest:copper_iron_shulker_upgrade, 升级：铜质>铁质潜影盒
-ironchest:diamond_crystal_shulker_upgrade, 升级：钻石>水晶潜影盒
-ironchest:vanilla_iron_shulker_upgrade, 升级：原版>铁质潜影盒
-ironchest:vanilla_copper_shulker_upgrade, 升级：原版>铜质潜影盒
-ironchest:diamond_obsidian_shulker_upgrade, 升级：钻石>黑曜石潜影盒
 extra_recipe:record_blank, 空白唱片
 extra_recipe:wip_matter, WIP物质
 silverlighting:tinybamboolight, 竹光残片
@@ -9438,23 +10066,6 @@ endores:nether_ore_lapis, Nether Lapis Lazuli Ore
 endores:nether_ore_redstone, Nether Redstone Ore
 endores:nether_ore_diamond, Nether Diamond Ore
 endores:nether_ore_emerald, Nether Emerald Ore
-shincolle:blockabyssium, 深海金属砖
-shincolle:blockcrane, 深海之冠
-shincolle:blockdesk, 深海提督的办公桌
-shincolle:blockframe, 深海框架
-shincolle:blockgrudge, 怨念团块
-shincolle:blockgrudgexp, Sublimation Grudge Lump
-shincolle:blockgrudgeheavy, 沉重的怨念团块
-shincolle:blockgrudgeheavydeco, 沉重的怨念团块（饰品）
-shincolle:blocklightair, tile.shincolle:BlockLightAir.name
-shincolle:blocklightliquid, tile.shincolle:BlockLightLiquid.name
-shincolle:blockpolymetal, 多金属砖
-shincolle:blockpolymetalgravel, 多金属砾石
-shincolle:blockpolymetalore, 多金属矿
-shincolle:blocksmallshipyard, 深海热泉
-shincolle:blockvolblock, 深海火山块
-shincolle:blockvolcore, 深海火山核心
-shincolle:blockwaypoint, 深海路径点
 shincolle:shipspawnegg:0, 深海栖舰蛋（初级）
 shincolle:shipspawnegg:1, 深海栖舰蛋（高级）
 shincolle:shipspawnegg:2, 驱逐 イ级
@@ -9648,6 +10259,23 @@ shincolle:shiptank:3, 深海液体槽 （更大）
 shincolle:targetwrench, 目标设定扳手
 shincolle:trainingbook, 维护人员训练手册
 shincolle:toyairplane, 零式21型舰战（1/48）
+shincolle:blockabyssium, 深海金属砖
+shincolle:blockcrane, 深海之冠
+shincolle:blockdesk, 深海提督的办公桌
+shincolle:blockframe, 深海框架
+shincolle:blockgrudge, 怨念团块
+shincolle:blockgrudgexp, Sublimation Grudge Lump
+shincolle:blockgrudgeheavy, 沉重的怨念团块
+shincolle:blockgrudgeheavydeco, 沉重的怨念团块（饰品）
+shincolle:blocklightair, tile.shincolle:BlockLightAir.name
+shincolle:blocklightliquid, tile.shincolle:BlockLightLiquid.name
+shincolle:blockpolymetal, 多金属砖
+shincolle:blockpolymetalgravel, 多金属砾石
+shincolle:blockpolymetalore, 多金属矿
+shincolle:blocksmallshipyard, 深海热泉
+shincolle:blockvolblock, 深海火山块
+shincolle:blockvolcore, 深海火山核心
+shincolle:blockwaypoint, 深海路径点
 mysticalagriculture:storage:0, §e下级精华块
 mysticalagriculture:storage:1, §a初级精华块
 mysticalagriculture:storage:2, §6中级精华块
@@ -11520,267 +12148,45 @@ aoa3:pluton_banner, 普洛顿旗帜
 aoa3:luxon_banner, 卢克森旗帜
 aoa3:erebon_banner, 埃瑞本旗帜
 aoa3:selyan_banner, 塞里安旗帜
-aoa3:achelos_helmet, 河神潜水盔
-aoa3:face_mask, 面罩
-aoa3:night_vision_goggles, 夜视镜
-aoa3:oceanus_helmet, 海神潜水盔
-aoa3:sealord_helmet, 海洋领主潜水盔
-aoa3:alacrity_boots, 敏捷靴子
-aoa3:alacrity_legs, 敏捷护腿
-aoa3:alacrity_chestplate, 敏捷胸甲
-aoa3:alacrity_helmet, 敏捷头盔
-aoa3:alchemy_boots, 炼金靴子
-aoa3:alchemy_legs, 炼金护腿
-aoa3:alchemy_chestplate, 炼金胸甲
-aoa3:alchemy_helmet, 炼金头盔
-aoa3:amethind_boots, 紫晶靴子
-aoa3:amethind_legs, 紫晶护腿
-aoa3:amethind_chestplate, 紫晶胸甲
-aoa3:amethind_helmet, 紫晶头盔
-aoa3:anima_boots, 灵气靴子
-aoa3:anima_legs, 灵气护腿
-aoa3:anima_chestplate, 灵气胸甲
-aoa3:anima_helmet, 灵气头盔
-aoa3:archaic_boots, 古代靴子
-aoa3:archaic_legs, 古代护腿
-aoa3:archaic_chestplate, 古代胸甲
-aoa3:archaic_helmet, 古代头盔
-aoa3:augury_boots, 占卜靴子
-aoa3:augury_legs, 占卜护腿
-aoa3:augury_chestplate, 占卜胸甲
-aoa3:augury_helmet, 占卜头盔
-aoa3:baron_boots, 爵士靴子
-aoa3:baron_legs, 爵士护腿
-aoa3:baron_chestplate, 爵士胸甲
-aoa3:baron_helmet, 爵士头盔
-aoa3:battleborn_boots, 狂战靴子
-aoa3:battleborn_legs, 狂战护腿
-aoa3:battleborn_chestplate, 狂战胸甲
-aoa3:battleborn_helmet, 狂战头盔
-aoa3:biogenic_boots, 生命之力靴子
-aoa3:biogenic_legs, 生命之力护腿
-aoa3:biogenic_chestplate, 生命之力胸甲
-aoa3:biogenic_helmet, 生命之力头盔
-aoa3:boreic_boots, 暴风靴子
-aoa3:boreic_legs, 暴风护腿
-aoa3:boreic_chestplate, 暴风胸甲
-aoa3:boreic_helmet, 暴风头盔
-aoa3:butchery_boots, 嗜血靴子
-aoa3:butchery_legs, 嗜血护腿
-aoa3:butchery_chestplate, 嗜血胸甲
-aoa3:butchery_helmet, 嗜血头盔
-aoa3:candy_boots, 糖果靴子
-aoa3:candy_legs, 糖果护腿
-aoa3:candy_chestplate, 糖果胸甲
-aoa3:candy_helmet, 糖果头盔
-aoa3:commander_boots, 指挥官靴子
-aoa3:commander_legs, 指挥官护腿
-aoa3:commander_chestplate, 指挥官胸甲
-aoa3:commander_helmet, 指挥官头盔
-aoa3:creation_boots, 召唤靴子
-aoa3:creation_legs, 召唤护腿
-aoa3:creation_chestplate, 召唤胸甲
-aoa3:creation_helmet, 召唤头盔
-aoa3:crystallis_boots, 晶化靴子
-aoa3:crystallis_legs, 晶化护腿
-aoa3:crystallis_chestplate, 晶化胸甲
-aoa3:crystallis_helmet, 晶化头盔
-aoa3:elecanyte_boots, 荧能靴子
-aoa3:elecanyte_legs, 荧能护腿
-aoa3:elecanyte_chestplate, 荧能胸甲
-aoa3:elecanyte_helmet, 荧能头盔
-aoa3:embrodium_boots, 烈能靴子
-aoa3:embrodium_legs, 烈能护腿
-aoa3:embrodium_chestplate, 烈能胸甲
-aoa3:embrodium_helmet, 烈能头盔
-aoa3:engineering_boots, 建造靴子
-aoa3:engineering_legs, 建造护腿
-aoa3:engineering_chestplate, 建造胸甲
-aoa3:engineering_helmet, 建造头盔
-aoa3:exoplate_boots, 石佑靴子
-aoa3:exoplate_legs, 石佑护腿
-aoa3:exoplate_chestplate, 石佑胸甲
-aoa3:exoplate_helmet, 石佑头盔
-aoa3:expedition_boots, 远征靴子
-aoa3:expedition_legs, 远征护腿
-aoa3:expedition_chestplate, 远征胸甲
-aoa3:expedition_helmet, 远征头盔
-aoa3:explosive_boots, 爆裂靴子
-aoa3:explosive_legs, 爆裂护腿
-aoa3:explosive_chestplate, 爆裂胸甲
-aoa3:explosive_helmet, 爆裂头盔
-aoa3:extraction_boots, 精炼靴子
-aoa3:extraction_legs, 精炼护腿
-aoa3:extraction_chestplate, 精炼胸甲
-aoa3:extraction_helmet, 精炼头盔
-aoa3:foraging_boots, 采掘靴子
-aoa3:foraging_legs, 采掘护腿
-aoa3:foraging_chestplate, 采掘胸甲
-aoa3:foraging_helmet, 采掘头盔
-aoa3:fungal_boots, 真菌靴子
-aoa3:fungal_legs, 真菌护腿
-aoa3:fungal_chestplate, 真菌胸甲
-aoa3:fungal_helmet, 真菌头盔
-aoa3:ghastly_boots, 阴森靴子
-aoa3:ghastly_legs, 阴森护腿
-aoa3:ghastly_chestplate, 阴森胸甲
-aoa3:ghastly_helmet, 阴森头盔
-aoa3:ghoulish_boots, 恐惧靴子
-aoa3:ghoulish_legs, 恐惧护腿
-aoa3:ghoulish_chestplate, 恐惧胸甲
-aoa3:ghoulish_helmet, 恐惧头盔
-aoa3:hauling_boots, 垂钓靴子
-aoa3:hauling_legs, 垂钓护腿
-aoa3:hauling_chestplate, 垂钓胸甲
-aoa3:hauling_helmet, 垂钓头盔
-aoa3:hazmat_boots, 危险靴子
-aoa3:hazmat_legs, 危险护腿
-aoa3:hazmat_chestplate, 危险胸甲
-aoa3:hazmat_helmet, 危险头盔
-aoa3:hunter_boots, 狩猎靴子
-aoa3:hunter_legs, 狩猎护腿
-aoa3:hunter_chestplate, 狩猎胸甲
-aoa3:hunter_helmet, 狩猎头盔
-aoa3:hydrangic_boots, 水能靴子
-aoa3:hydrangic_legs, 水能护腿
-aoa3:hydrangic_chestplate, 水能胸甲
-aoa3:hydrangic_helmet, 水能头盔
-aoa3:hydroplate_boots, 水佑靴子
-aoa3:hydroplate_legs, 水佑护腿
-aoa3:hydroplate_chestplate, 水佑胸甲
-aoa3:hydroplate_helmet, 水佑头盔
-aoa3:ice_boots, 冰之靴子
-aoa3:ice_legs, 冰之护腿
-aoa3:ice_chestplate, 冰之胸甲
-aoa3:ice_helmet, 冰之头盔
-aoa3:infernal_boots, 炼狱靴子
-aoa3:infernal_legs, 炼狱护腿
-aoa3:infernal_chestplate, 炼狱胸甲
-aoa3:infernal_helmet, 炼狱头盔
-aoa3:infusion_boots, 注魔靴子
-aoa3:infusion_legs, 注魔护腿
-aoa3:infusion_chestplate, 注魔胸甲
-aoa3:infusion_helmet, 注魔头盔
-aoa3:innervation_boots, 支配靴子
-aoa3:innervation_legs, 支配护腿
-aoa3:innervation_chestplate, 支配胸甲
-aoa3:innervation_helmet, 支配头盔
-aoa3:knight_boots, 骑士靴子
-aoa3:knight_legs, 骑士护腿
-aoa3:knight_chestplate, 骑士胸甲
-aoa3:knight_helmet, 骑士头盔
-aoa3:logging_boots, 砍伐靴子
-aoa3:logging_legs, 砍伐护腿
-aoa3:logging_chestplate, 砍伐胸甲
-aoa3:logging_helmet, 砍伐头盔
-aoa3:lunar_boots, 月球靴子
-aoa3:lunar_legs, 月球护腿
-aoa3:lunar_chestplate, 月球胸甲
-aoa3:lunar_helmet, 月球头盔
-aoa3:lyndamyte_boots, 褐铁靴子
-aoa3:lyndamyte_legs, 褐铁护腿
-aoa3:lyndamyte_chestplate, 褐铁胸甲
-aoa3:lyndamyte_helmet, 褐铁头盔
-aoa3:lyonic_boots, 焦铁靴子
-aoa3:lyonic_legs, 焦铁护腿
-aoa3:lyonic_chestplate, 焦铁胸甲
-aoa3:lyonic_helmet, 焦铁头盔
-aoa3:mercurial_boots, 水银靴子
-aoa3:mercurial_legs, 水银护腿
-aoa3:mercurial_chestplate, 水银胸甲
-aoa3:mercurial_helmet, 水银头盔
-aoa3:necro_boots, 死灵靴子
-aoa3:necro_legs, 死灵护腿
-aoa3:necro_chestplate, 死灵胸甲
-aoa3:necro_helmet, 死灵头盔
-aoa3:nethengeic_boots, 纳德吉克靴子
-aoa3:nethengeic_legs, 纳德吉克护腿
-aoa3:nethengeic_chestplate, 纳德吉克胸甲
-aoa3:nethengeic_helmet, 纳德吉克头盔
-aoa3:nightmare_boots, 噩梦靴子
-aoa3:nightmare_legs, 噩梦护腿
-aoa3:nightmare_chestplate, 噩梦胸甲
-aoa3:nightmare_helmet, 噩梦头盔
-aoa3:omni_boots, 爆破靴子
-aoa3:omni_legs, 爆破护腿
-aoa3:omni_chestplate, 爆破胸甲
-aoa3:omni_helmet, 爆破头盔
-aoa3:phantasm_boots, 幻象靴子
-aoa3:phantasm_legs, 幻象护腿
-aoa3:phantasm_chestplate, 幻象胸甲
-aoa3:phantasm_helmet, 幻象头盔
-aoa3:poison_boots, 剧毒靴子
-aoa3:poison_legs, 剧毒护腿
-aoa3:poison_chestplate, 剧毒胸甲
-aoa3:poison_helmet, 剧毒头盔
-aoa3:predatious_boots, 自然靴子
-aoa3:predatious_legs, 自然护腿
-aoa3:predatious_chestplate, 自然胸甲
-aoa3:predatious_helmet, 自然头盔
-aoa3:primordial_boots, 原始靴子
-aoa3:primordial_legs, 原始护腿
-aoa3:primordial_chestplate, 原始胸甲
-aoa3:primordial_helmet, 原始头盔
-aoa3:purity_boots, 纯净靴子
-aoa3:purity_legs, 纯净护腿
-aoa3:purity_chestplate, 纯净胸甲
-aoa3:purity_helmet, 纯净头盔
-aoa3:rockbone_boots, 岩骨靴子
-aoa3:rockbone_legs, 岩骨护腿
-aoa3:rockbone_chestplate, 岩骨胸甲
-aoa3:rockbone_helmet, 岩骨头盔
-aoa3:rosidian_boots, 伊恩靴子
-aoa3:rosidian_legs, 伊恩护腿
-aoa3:rosidian_chestplate, 伊恩胸甲
-aoa3:rosidian_helmet, 伊恩头盔
-aoa3:runation_boots, 魔力靴子
-aoa3:runation_legs, 魔力护腿
-aoa3:runation_chestplate, 魔力胸甲
-aoa3:runation_helmet, 魔力头盔
-aoa3:runic_boots, 符文靴子
-aoa3:runic_legs, 符文护腿
-aoa3:runic_chestplate, 符文胸甲
-aoa3:runic_helmet, 符文头盔
-aoa3:sharpshot_boots, 锐利靴子
-aoa3:sharpshot_legs, 锐利护腿
-aoa3:sharpshot_chestplate, 锐利胸甲
-aoa3:sharpshot_helmet, 锐利头盔
-aoa3:skeletal_boots, 骷髅靴子
-aoa3:skeletal_legs, 骷髅护腿
-aoa3:skeletal_chestplate, 骷髅胸甲
-aoa3:skeletal_helmet, 骷髅头盔
-aoa3:spaceking_boots, 空间之主靴子
-aoa3:spaceking_legs, 空间之主护腿
-aoa3:spaceking_chestplate, 空间之主胸甲
-aoa3:spaceking_helmet, 空间之主头盔
-aoa3:speed_boots, 极速靴子
-aoa3:speed_legs, 极速护腿
-aoa3:speed_chestplate, 极速胸甲
-aoa3:speed_helmet, 极速头盔
-aoa3:subterranean_boots, 地下靴子
-aoa3:subterranean_legs, 地下护腿
-aoa3:subterranean_chestplate, 地下胸甲
-aoa3:subterranean_helmet, 地下头盔
-aoa3:utopian_boots, 乌托邦靴子
-aoa3:utopian_legs, 乌托邦护腿
-aoa3:utopian_chestplate, 乌托邦胸甲
-aoa3:utopian_helmet, 乌托邦头盔
-aoa3:void_boots, 虚空靴子
-aoa3:void_legs, 虚空护腿
-aoa3:void_chestplate, 虚空胸甲
-aoa3:void_helmet, 虚空头盔
-aoa3:weaken_boots, 削弱靴子
-aoa3:weaken_legs, 削弱护腿
-aoa3:weaken_chestplate, 削弱胸甲
-aoa3:weaken_helmet, 削弱头盔
-aoa3:wither_boots, 凋灵靴子
-aoa3:wither_legs, 凋灵护腿
-aoa3:wither_chestplate, 凋灵胸甲
-aoa3:wither_helmet, 凋灵头盔
-aoa3:zargonite_boots, 领域靴子
-aoa3:zargonite_legs, 领域护腿
-aoa3:zargonite_chestplate, 领域胸甲
-aoa3:zargonite_helmet, 领域头盔
+aoa3:amethyst_pickaxe, 紫晶镐
+aoa3:emberstone_pickaxe, 余烬镐
+aoa3:energistic_pickaxe, 聚能镐
+aoa3:gemcracker, 裂解镐
+aoa3:goofy_pickaxe, 愚弄镐
+aoa3:jade_pickaxe, 翡翠镐
+aoa3:limonite_pickaxe, 褐铁镐
+aoa3:occult_pickaxe, 神秘镐
+aoa3:ornamyte_pickaxe, 奥姆镐
+aoa3:pickmax, 萃取镐
+aoa3:rosite_pickaxe, 玫石镐
+aoa3:sapphire_pickaxe, 蓝宝石镐
+aoa3:skeletal_pickaxe, 骷髅镐
+aoa3:soulstone_pickaxe, 灵魂镐
+aoa3:amethyst_shovel, 紫晶锹
+aoa3:emberstone_shovel, 余烬锹
+aoa3:energistic_shovel, 聚能锹
+aoa3:goofy_shovel, 愚弄锹
+aoa3:jade_shovel, 翡翠锹
+aoa3:limonite_shovel, 褐铁锹
+aoa3:occult_shovel, 神秘锹
+aoa3:ornamyte_shovel, 奥姆锹
+aoa3:rosite_shovel, 玫石锹
+aoa3:sapphire_shovel, 蓝宝石锹
+aoa3:skeletal_shovel, 骷髅锹
+aoa3:soulstone_shovel, 灵魂锹
+aoa3:amethyst_axe, 紫晶斧
+aoa3:emberstone_axe, 余烬斧
+aoa3:energistic_axe, 聚能斧
+aoa3:goofy_axe, 愚弄斧
+aoa3:jade_axe, 翡翠斧
+aoa3:limonite_axe, 褐铁斧
+aoa3:occult_axe, 神秘斧
+aoa3:ornamyte_axe, 奥姆斧
+aoa3:rosite_axe, 玫石斧
+aoa3:sapphire_axe, 蓝宝石斧
+aoa3:skeletal_axe, 骷髅斧
+aoa3:soulstone_axe, 灵魂斧
+aoa3:chainsaw, 电锯
 aoa3:amethyst_sword, 紫晶剑
 aoa3:baron_sword, 爵士剑
 aoa3:bloodfury, 血之怒
@@ -12193,6 +12599,267 @@ aoa3:toxic_terrorizer, 剧毒恐慌
 aoa3:vortex_blaster, 漩涡冲击波
 aoa3:whimsy_winder, 奇妙的络筒机
 aoa3:withers_wrath, 凋灵之怒
+aoa3:achelos_helmet, 河神潜水盔
+aoa3:face_mask, 面罩
+aoa3:night_vision_goggles, 夜视镜
+aoa3:oceanus_helmet, 海神潜水盔
+aoa3:sealord_helmet, 海洋领主潜水盔
+aoa3:alacrity_boots, 敏捷靴子
+aoa3:alacrity_legs, 敏捷护腿
+aoa3:alacrity_chestplate, 敏捷胸甲
+aoa3:alacrity_helmet, 敏捷头盔
+aoa3:alchemy_boots, 炼金靴子
+aoa3:alchemy_legs, 炼金护腿
+aoa3:alchemy_chestplate, 炼金胸甲
+aoa3:alchemy_helmet, 炼金头盔
+aoa3:amethind_boots, 紫晶靴子
+aoa3:amethind_legs, 紫晶护腿
+aoa3:amethind_chestplate, 紫晶胸甲
+aoa3:amethind_helmet, 紫晶头盔
+aoa3:anima_boots, 灵气靴子
+aoa3:anima_legs, 灵气护腿
+aoa3:anima_chestplate, 灵气胸甲
+aoa3:anima_helmet, 灵气头盔
+aoa3:archaic_boots, 古代靴子
+aoa3:archaic_legs, 古代护腿
+aoa3:archaic_chestplate, 古代胸甲
+aoa3:archaic_helmet, 古代头盔
+aoa3:augury_boots, 占卜靴子
+aoa3:augury_legs, 占卜护腿
+aoa3:augury_chestplate, 占卜胸甲
+aoa3:augury_helmet, 占卜头盔
+aoa3:baron_boots, 爵士靴子
+aoa3:baron_legs, 爵士护腿
+aoa3:baron_chestplate, 爵士胸甲
+aoa3:baron_helmet, 爵士头盔
+aoa3:battleborn_boots, 狂战靴子
+aoa3:battleborn_legs, 狂战护腿
+aoa3:battleborn_chestplate, 狂战胸甲
+aoa3:battleborn_helmet, 狂战头盔
+aoa3:biogenic_boots, 生命之力靴子
+aoa3:biogenic_legs, 生命之力护腿
+aoa3:biogenic_chestplate, 生命之力胸甲
+aoa3:biogenic_helmet, 生命之力头盔
+aoa3:boreic_boots, 暴风靴子
+aoa3:boreic_legs, 暴风护腿
+aoa3:boreic_chestplate, 暴风胸甲
+aoa3:boreic_helmet, 暴风头盔
+aoa3:butchery_boots, 嗜血靴子
+aoa3:butchery_legs, 嗜血护腿
+aoa3:butchery_chestplate, 嗜血胸甲
+aoa3:butchery_helmet, 嗜血头盔
+aoa3:candy_boots, 糖果靴子
+aoa3:candy_legs, 糖果护腿
+aoa3:candy_chestplate, 糖果胸甲
+aoa3:candy_helmet, 糖果头盔
+aoa3:commander_boots, 指挥官靴子
+aoa3:commander_legs, 指挥官护腿
+aoa3:commander_chestplate, 指挥官胸甲
+aoa3:commander_helmet, 指挥官头盔
+aoa3:creation_boots, 召唤靴子
+aoa3:creation_legs, 召唤护腿
+aoa3:creation_chestplate, 召唤胸甲
+aoa3:creation_helmet, 召唤头盔
+aoa3:crystallis_boots, 晶化靴子
+aoa3:crystallis_legs, 晶化护腿
+aoa3:crystallis_chestplate, 晶化胸甲
+aoa3:crystallis_helmet, 晶化头盔
+aoa3:elecanyte_boots, 荧能靴子
+aoa3:elecanyte_legs, 荧能护腿
+aoa3:elecanyte_chestplate, 荧能胸甲
+aoa3:elecanyte_helmet, 荧能头盔
+aoa3:embrodium_boots, 烈能靴子
+aoa3:embrodium_legs, 烈能护腿
+aoa3:embrodium_chestplate, 烈能胸甲
+aoa3:embrodium_helmet, 烈能头盔
+aoa3:engineering_boots, 建造靴子
+aoa3:engineering_legs, 建造护腿
+aoa3:engineering_chestplate, 建造胸甲
+aoa3:engineering_helmet, 建造头盔
+aoa3:exoplate_boots, 石佑靴子
+aoa3:exoplate_legs, 石佑护腿
+aoa3:exoplate_chestplate, 石佑胸甲
+aoa3:exoplate_helmet, 石佑头盔
+aoa3:expedition_boots, 远征靴子
+aoa3:expedition_legs, 远征护腿
+aoa3:expedition_chestplate, 远征胸甲
+aoa3:expedition_helmet, 远征头盔
+aoa3:explosive_boots, 爆裂靴子
+aoa3:explosive_legs, 爆裂护腿
+aoa3:explosive_chestplate, 爆裂胸甲
+aoa3:explosive_helmet, 爆裂头盔
+aoa3:extraction_boots, 精炼靴子
+aoa3:extraction_legs, 精炼护腿
+aoa3:extraction_chestplate, 精炼胸甲
+aoa3:extraction_helmet, 精炼头盔
+aoa3:foraging_boots, 采掘靴子
+aoa3:foraging_legs, 采掘护腿
+aoa3:foraging_chestplate, 采掘胸甲
+aoa3:foraging_helmet, 采掘头盔
+aoa3:fungal_boots, 真菌靴子
+aoa3:fungal_legs, 真菌护腿
+aoa3:fungal_chestplate, 真菌胸甲
+aoa3:fungal_helmet, 真菌头盔
+aoa3:ghastly_boots, 阴森靴子
+aoa3:ghastly_legs, 阴森护腿
+aoa3:ghastly_chestplate, 阴森胸甲
+aoa3:ghastly_helmet, 阴森头盔
+aoa3:ghoulish_boots, 恐惧靴子
+aoa3:ghoulish_legs, 恐惧护腿
+aoa3:ghoulish_chestplate, 恐惧胸甲
+aoa3:ghoulish_helmet, 恐惧头盔
+aoa3:hauling_boots, 垂钓靴子
+aoa3:hauling_legs, 垂钓护腿
+aoa3:hauling_chestplate, 垂钓胸甲
+aoa3:hauling_helmet, 垂钓头盔
+aoa3:hazmat_boots, 危险靴子
+aoa3:hazmat_legs, 危险护腿
+aoa3:hazmat_chestplate, 危险胸甲
+aoa3:hazmat_helmet, 危险头盔
+aoa3:hunter_boots, 狩猎靴子
+aoa3:hunter_legs, 狩猎护腿
+aoa3:hunter_chestplate, 狩猎胸甲
+aoa3:hunter_helmet, 狩猎头盔
+aoa3:hydrangic_boots, 水能靴子
+aoa3:hydrangic_legs, 水能护腿
+aoa3:hydrangic_chestplate, 水能胸甲
+aoa3:hydrangic_helmet, 水能头盔
+aoa3:hydroplate_boots, 水佑靴子
+aoa3:hydroplate_legs, 水佑护腿
+aoa3:hydroplate_chestplate, 水佑胸甲
+aoa3:hydroplate_helmet, 水佑头盔
+aoa3:ice_boots, 冰之靴子
+aoa3:ice_legs, 冰之护腿
+aoa3:ice_chestplate, 冰之胸甲
+aoa3:ice_helmet, 冰之头盔
+aoa3:infernal_boots, 炼狱靴子
+aoa3:infernal_legs, 炼狱护腿
+aoa3:infernal_chestplate, 炼狱胸甲
+aoa3:infernal_helmet, 炼狱头盔
+aoa3:infusion_boots, 注魔靴子
+aoa3:infusion_legs, 注魔护腿
+aoa3:infusion_chestplate, 注魔胸甲
+aoa3:infusion_helmet, 注魔头盔
+aoa3:innervation_boots, 支配靴子
+aoa3:innervation_legs, 支配护腿
+aoa3:innervation_chestplate, 支配胸甲
+aoa3:innervation_helmet, 支配头盔
+aoa3:knight_boots, 骑士靴子
+aoa3:knight_legs, 骑士护腿
+aoa3:knight_chestplate, 骑士胸甲
+aoa3:knight_helmet, 骑士头盔
+aoa3:logging_boots, 砍伐靴子
+aoa3:logging_legs, 砍伐护腿
+aoa3:logging_chestplate, 砍伐胸甲
+aoa3:logging_helmet, 砍伐头盔
+aoa3:lunar_boots, 月球靴子
+aoa3:lunar_legs, 月球护腿
+aoa3:lunar_chestplate, 月球胸甲
+aoa3:lunar_helmet, 月球头盔
+aoa3:lyndamyte_boots, 褐铁靴子
+aoa3:lyndamyte_legs, 褐铁护腿
+aoa3:lyndamyte_chestplate, 褐铁胸甲
+aoa3:lyndamyte_helmet, 褐铁头盔
+aoa3:lyonic_boots, 焦铁靴子
+aoa3:lyonic_legs, 焦铁护腿
+aoa3:lyonic_chestplate, 焦铁胸甲
+aoa3:lyonic_helmet, 焦铁头盔
+aoa3:mercurial_boots, 水银靴子
+aoa3:mercurial_legs, 水银护腿
+aoa3:mercurial_chestplate, 水银胸甲
+aoa3:mercurial_helmet, 水银头盔
+aoa3:necro_boots, 死灵靴子
+aoa3:necro_legs, 死灵护腿
+aoa3:necro_chestplate, 死灵胸甲
+aoa3:necro_helmet, 死灵头盔
+aoa3:nethengeic_boots, 纳德吉克靴子
+aoa3:nethengeic_legs, 纳德吉克护腿
+aoa3:nethengeic_chestplate, 纳德吉克胸甲
+aoa3:nethengeic_helmet, 纳德吉克头盔
+aoa3:nightmare_boots, 噩梦靴子
+aoa3:nightmare_legs, 噩梦护腿
+aoa3:nightmare_chestplate, 噩梦胸甲
+aoa3:nightmare_helmet, 噩梦头盔
+aoa3:omni_boots, 爆破靴子
+aoa3:omni_legs, 爆破护腿
+aoa3:omni_chestplate, 爆破胸甲
+aoa3:omni_helmet, 爆破头盔
+aoa3:phantasm_boots, 幻象靴子
+aoa3:phantasm_legs, 幻象护腿
+aoa3:phantasm_chestplate, 幻象胸甲
+aoa3:phantasm_helmet, 幻象头盔
+aoa3:poison_boots, 剧毒靴子
+aoa3:poison_legs, 剧毒护腿
+aoa3:poison_chestplate, 剧毒胸甲
+aoa3:poison_helmet, 剧毒头盔
+aoa3:predatious_boots, 自然靴子
+aoa3:predatious_legs, 自然护腿
+aoa3:predatious_chestplate, 自然胸甲
+aoa3:predatious_helmet, 自然头盔
+aoa3:primordial_boots, 原始靴子
+aoa3:primordial_legs, 原始护腿
+aoa3:primordial_chestplate, 原始胸甲
+aoa3:primordial_helmet, 原始头盔
+aoa3:purity_boots, 纯净靴子
+aoa3:purity_legs, 纯净护腿
+aoa3:purity_chestplate, 纯净胸甲
+aoa3:purity_helmet, 纯净头盔
+aoa3:rockbone_boots, 岩骨靴子
+aoa3:rockbone_legs, 岩骨护腿
+aoa3:rockbone_chestplate, 岩骨胸甲
+aoa3:rockbone_helmet, 岩骨头盔
+aoa3:rosidian_boots, 伊恩靴子
+aoa3:rosidian_legs, 伊恩护腿
+aoa3:rosidian_chestplate, 伊恩胸甲
+aoa3:rosidian_helmet, 伊恩头盔
+aoa3:runation_boots, 魔力靴子
+aoa3:runation_legs, 魔力护腿
+aoa3:runation_chestplate, 魔力胸甲
+aoa3:runation_helmet, 魔力头盔
+aoa3:runic_boots, 符文靴子
+aoa3:runic_legs, 符文护腿
+aoa3:runic_chestplate, 符文胸甲
+aoa3:runic_helmet, 符文头盔
+aoa3:sharpshot_boots, 锐利靴子
+aoa3:sharpshot_legs, 锐利护腿
+aoa3:sharpshot_chestplate, 锐利胸甲
+aoa3:sharpshot_helmet, 锐利头盔
+aoa3:skeletal_boots, 骷髅靴子
+aoa3:skeletal_legs, 骷髅护腿
+aoa3:skeletal_chestplate, 骷髅胸甲
+aoa3:skeletal_helmet, 骷髅头盔
+aoa3:spaceking_boots, 空间之主靴子
+aoa3:spaceking_legs, 空间之主护腿
+aoa3:spaceking_chestplate, 空间之主胸甲
+aoa3:spaceking_helmet, 空间之主头盔
+aoa3:speed_boots, 极速靴子
+aoa3:speed_legs, 极速护腿
+aoa3:speed_chestplate, 极速胸甲
+aoa3:speed_helmet, 极速头盔
+aoa3:subterranean_boots, 地下靴子
+aoa3:subterranean_legs, 地下护腿
+aoa3:subterranean_chestplate, 地下胸甲
+aoa3:subterranean_helmet, 地下头盔
+aoa3:utopian_boots, 乌托邦靴子
+aoa3:utopian_legs, 乌托邦护腿
+aoa3:utopian_chestplate, 乌托邦胸甲
+aoa3:utopian_helmet, 乌托邦头盔
+aoa3:void_boots, 虚空靴子
+aoa3:void_legs, 虚空护腿
+aoa3:void_chestplate, 虚空胸甲
+aoa3:void_helmet, 虚空头盔
+aoa3:weaken_boots, 削弱靴子
+aoa3:weaken_legs, 削弱护腿
+aoa3:weaken_chestplate, 削弱胸甲
+aoa3:weaken_helmet, 削弱头盔
+aoa3:wither_boots, 凋灵靴子
+aoa3:wither_legs, 凋灵护腿
+aoa3:wither_chestplate, 凋灵胸甲
+aoa3:wither_helmet, 凋灵头盔
+aoa3:zargonite_boots, 领域靴子
+aoa3:zargonite_legs, 领域护腿
+aoa3:zargonite_chestplate, 领域胸甲
+aoa3:zargonite_helmet, 领域头盔
 aoa3:balloon, 气球
 aoa3:limonite_bullet, 褐铁子弹
 aoa3:cannonball, 加农弹
@@ -12714,45 +13381,6 @@ aoa3:thorny_plant_seeds, 荆棘花种子
 aoa3:trilliad_seeds, 蓝花种子
 aoa3:outlaw_disc, 音乐唱片
 aoa3:caverns_disc, 音乐唱片
-aoa3:amethyst_pickaxe, 紫晶镐
-aoa3:emberstone_pickaxe, 余烬镐
-aoa3:energistic_pickaxe, 聚能镐
-aoa3:gemcracker, 裂解镐
-aoa3:goofy_pickaxe, 愚弄镐
-aoa3:jade_pickaxe, 翡翠镐
-aoa3:limonite_pickaxe, 褐铁镐
-aoa3:occult_pickaxe, 神秘镐
-aoa3:ornamyte_pickaxe, 奥姆镐
-aoa3:pickmax, 萃取镐
-aoa3:rosite_pickaxe, 玫石镐
-aoa3:sapphire_pickaxe, 蓝宝石镐
-aoa3:skeletal_pickaxe, 骷髅镐
-aoa3:soulstone_pickaxe, 灵魂镐
-aoa3:amethyst_shovel, 紫晶锹
-aoa3:emberstone_shovel, 余烬锹
-aoa3:energistic_shovel, 聚能锹
-aoa3:goofy_shovel, 愚弄锹
-aoa3:jade_shovel, 翡翠锹
-aoa3:limonite_shovel, 褐铁锹
-aoa3:occult_shovel, 神秘锹
-aoa3:ornamyte_shovel, 奥姆锹
-aoa3:rosite_shovel, 玫石锹
-aoa3:sapphire_shovel, 蓝宝石锹
-aoa3:skeletal_shovel, 骷髅锹
-aoa3:soulstone_shovel, 灵魂锹
-aoa3:amethyst_axe, 紫晶斧
-aoa3:emberstone_axe, 余烬斧
-aoa3:energistic_axe, 聚能斧
-aoa3:goofy_axe, 愚弄斧
-aoa3:jade_axe, 翡翠斧
-aoa3:limonite_axe, 褐铁斧
-aoa3:occult_axe, 神秘斧
-aoa3:ornamyte_axe, 奥姆斧
-aoa3:rosite_axe, 玫石斧
-aoa3:sapphire_axe, 蓝宝石斧
-aoa3:skeletal_axe, 骷髅斧
-aoa3:soulstone_axe, 灵魂斧
-aoa3:chainsaw, 电锯
 touhou_little_maid:ultramarine_orb_elixir, §6绀珠之药
 touhou_little_maid:explosion_protect_bauble, §6爆炸保护饰品
 touhou_little_maid:fire_protect_bauble, §6火焰保护饰品
@@ -13217,7 +13845,7 @@ sandyores:gravelglowstone, 荧石沙砾
 sandyores:gravelredstone, 红石沙砾
 sandyores:gravellapis, 青金石沙砾
 sandyores:gravelquartz, 石英沙砾
-sandyores:stonepurpur, 紫珀矿石（“Chorus Ore”可能指与紫珀块相关的矿石，这里翻译为紫珀矿石，实际可能需要根据游戏内容调整）
+sandyores:stonepurpur, 紫颂果石
 sandyores:stonequartz, 石英矿石
 sandyores:stoneprismarine, 海晶石矿石
 sandyores:stoneexperience, 经验矿石
