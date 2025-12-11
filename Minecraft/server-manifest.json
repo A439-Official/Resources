@@ -47,7 +47,7 @@
     },
     {
       "path": "config/AppliedEnergistics2/CustomRecipes.cfg",
-      "hash": "db9cc3be6450e5bf28bd026b0d11f2248a10cbe6"
+      "hash": "13a7fd015e8a6e61a22102f6bf0dc62597b30f13"
     },
     {
       "path": "config/AppliedEnergistics2/Facades.cfg",
@@ -55,7 +55,7 @@
     },
     {
       "path": "config/AppliedEnergistics2/items.csv",
-      "hash": "40a86b309cbfab2f024a0dca80cde28112d2ef16"
+      "hash": "75deba21a3d3a96bdcac4108ddac591581b3e282"
     },
     {
       "path": "config/AppliedEnergistics2/VersionChecker.cfg",
@@ -267,7 +267,7 @@
     },
     {
       "path": "config/InvTweaks.cfg",
-      "hash": "8e54834fdc20e41145945324be7891a3dc06046b"
+      "hash": "b9092f0b5bbfb9f6cdde49dc4c6901cee139bf47"
     },
     {
       "path": "config/InvTweaksRules.txt",
@@ -2443,7 +2443,7 @@
     },
     {
       "path": "config/rare-ice.properties",
-      "hash": "cce375870a68b43a5747d4d4decda2b42b94d2e0"
+      "hash": "c48996bde725431974c17b5e9bcff5d8bb2ace95"
     },
     {
       "path": "config/renderlib.cfg",
@@ -2503,7 +2503,7 @@
     },
     {
       "path": "config/splash.properties",
-      "hash": "23ae78e195b70cc0d29e3de7bdd33b883d62db8c"
+      "hash": "45f203b0f9ff577fb64dbe1b40ae8d54dc1575b2"
     },
     {
       "path": "config/tconevo/.config_version",
@@ -2839,7 +2839,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "9076bd3615b3403d1ce04b076cd2c7fad8c549d4"
+      "hash": "e63204096519bff5d511d1f7625c7d37f57eadfd"
     },
     {
       "path": "config/xaeropatreon.txt",
