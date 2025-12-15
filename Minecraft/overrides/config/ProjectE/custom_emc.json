@@ -147,6 +147,18 @@
     {
       "item": "tconstruct:materials|50",
       "emc": 16777216
+    },
+    {
+      "item": "appliedenergistics2:material|3",
+      "emc": 256
+    },
+    {
+      "item": "appliedenergistics2:material|1",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:part|16",
+      "emc": 546
     }
   ]
 }

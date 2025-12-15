@@ -2,7 +2,7 @@
   "name": "A9",
   "author": "A439",
   "version": "1.0",
-  "description": "",
+  "description": "\t",
   "fileApi": "http://raw.githubusercontent.com/A439-Official/Resources/main/Minecraft",
   "files": [
     {
@@ -307,7 +307,7 @@
     },
     {
       "path": "config/jei/worldSettings.cfg",
-      "hash": "4751f7f3172f909e41564193c60274fc0c4cf8c1"
+      "hash": "e06a361cd4897f4f391a64c49011fc22801ba9b7"
     },
     {
       "path": "config/jeiutilities/jeiutilities.cfg",
@@ -2423,7 +2423,7 @@
     },
     {
       "path": "config/ProjectE/custom_emc.json",
-      "hash": "fbcb56cf3edae229d89ec3c7e373e1fcd006c896"
+      "hash": "8c4e9c59704866f287e911a8d1071f62960abbe2"
     },
     {
       "path": "config/ProjectE/mapping.cfg",
@@ -3226,8 +3226,52 @@
       "hash": "0d3b0589021905b2eab8ba93805e9fdef463288e"
     },
     {
+      "path": "natives-windows-x86_64/jinput-dx8.dll",
+      "hash": "50348b2958b017df3bf30d7915ab61a4cb9a2b33"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-dx8_64.dll",
+      "hash": "5d9a7d3fb6224dab97aaff7bd9430232732d9be8"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-raw.dll",
+      "hash": "4d982f408e815519c2289cd720c78338392a9887"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-raw_64.dll",
+      "hash": "067c11135f9ebeb554d5f80b7a8a5244c0f3b7d7"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-wintab.dll",
+      "hash": "e7b9beead279298611d0c4753089d3af07c4c9e9"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl.dll",
+      "hash": "6f1661fc6952312a9f34dfa6d3840b46e9c85e63"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl64.dll",
+      "hash": "f4013116d6750829851370ed19a9eaf8251ad6e1"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL32.dll",
+      "hash": "ede381bf55e7d0cd3a7e058237bbc66a8ff63837"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL64.dll",
+      "hash": "97362fba53dfb6d9581b8c64829f4b1d98a97855"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x64.dll",
+      "hash": "7fdbc1a8a9c0e550e95b7444369529c823f7d24f"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x86.dll",
+      "hash": "d48b1c8b9e20f9e4de21497d6dda1fba2f0d84d1"
+    },
+    {
       "path": "options.txt",
-      "hash": "97816c65a09c4a18924546558c1f54db6e91e6fc"
+      "hash": "cd1a3e298de6efc594c88dbb1b4b130882f9c6be"
     }
   ],
   "addons": [
