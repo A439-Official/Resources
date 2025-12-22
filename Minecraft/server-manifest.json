@@ -2,7 +2,7 @@
   "name": "A9",
   "author": "A439",
   "version": "1.0",
-  "description": "\t",
+  "description": "",
   "fileApi": "http://raw.githubusercontent.com/A439-Official/Resources/main/Minecraft",
   "files": [
     {
@@ -43,11 +43,11 @@
     },
     {
       "path": "config/AppliedEnergistics2/AppliedEnergistics2.cfg",
-      "hash": "929f85e018f9f0d158d63bab1f29368bd6709448"
+      "hash": "bf6e53432433390e1041ecdd44ca0a57f1c55268"
     },
     {
       "path": "config/AppliedEnergistics2/CustomRecipes.cfg",
-      "hash": "13a7fd015e8a6e61a22102f6bf0dc62597b30f13"
+      "hash": "e76b8babe11b614d336f29c5fe8ec5883b3e2c35"
     },
     {
       "path": "config/AppliedEnergistics2/Facades.cfg",
@@ -55,7 +55,7 @@
     },
     {
       "path": "config/AppliedEnergistics2/items.csv",
-      "hash": "75deba21a3d3a96bdcac4108ddac591581b3e282"
+      "hash": "b9c5259256ee7f67936f2cbae278a98a45e23c4d"
     },
     {
       "path": "config/AppliedEnergistics2/VersionChecker.cfg",
@@ -155,11 +155,75 @@
     },
     {
       "path": "config/cherishedworlds/favorites.dat",
-      "hash": "8e511db8c531493c1871dfcb4ca27221fb96a01b"
+      "hash": "8328ca77c7e07c4c9484188ff2980e2272ad9d6b"
+    },
+    {
+      "path": "config/codechicken/supporters.json",
+      "hash": "c55489ad8381e7f2d023ef1b926ab87b2a7e1f25"
+    },
+    {
+      "path": "config/codechicken/supporters.marker",
+      "hash": "3f97e7ab87ad89da13348497852c1759fcff95e4"
+    },
+    {
+      "path": "config/codechickenlib.cfg",
+      "hash": "0f8d9d5c583e9a8262830117a558cb2728d86c48"
+    },
+    {
+      "path": "config/cofh/core/client.cfg",
+      "hash": "41cc04ca9f2ee8ffd2599db4682640f62de262aa"
+    },
+    {
+      "path": "config/cofh/core/common.cfg",
+      "hash": "05f8ceabf662c4d77d1d4028ef68e914d5e7cc92"
+    },
+    {
+      "path": "config/cofh/core/friends.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/cofh/thermalexpansion/client.cfg",
+      "hash": "8a76bfbdaef80da33d6d2e9c95ea10a41742e6f4"
+    },
+    {
+      "path": "config/cofh/thermalexpansion/common.cfg",
+      "hash": "2784cb2c6c80d0cd19a256d933b32ecde57ad33a"
+    },
+    {
+      "path": "config/cofh/thermalexpansion/florbs.cfg",
+      "hash": "0e3700763f0fe1582c562dc1f6f3b4ca91ee42ef"
+    },
+    {
+      "path": "config/cofh/thermalexpansion/morbs.cfg",
+      "hash": "b9b431de43d5c1ee8e6b5b16872aa3f202ae594a"
+    },
+    {
+      "path": "config/cofh/thermalfoundation/client.cfg",
+      "hash": "0cd6756e6c0f59f236037adfe275ba3472e54326"
+    },
+    {
+      "path": "config/cofh/thermalfoundation/common.cfg",
+      "hash": "d671e42efccb2c3d32e533645ee812f7112f754c"
+    },
+    {
+      "path": "config/cofh/thermalfoundation/lexicon-whitelist.cfg",
+      "hash": "5fe91e7d00b96ff01c6876bff2feacfd674502cb"
     },
     {
       "path": "config/cofh/world/00_minecraft.json",
       "hash": "a355820c8413fb67f68dfcb9f1ac7a4134b9ed82"
+    },
+    {
+      "path": "config/cofh/world/01_thermalfoundation_ores.json",
+      "hash": "35a2815a4587db2d21af3fcddeea20041b74a142"
+    },
+    {
+      "path": "config/cofh/world/02_thermalfoundation_oil.json",
+      "hash": "2f66ae55f5a3fcd597bb1bc5f48ba39c9dc8ef23"
+    },
+    {
+      "path": "config/cofh/world/03_thermalfoundation_clathrates.json",
+      "hash": "6b3eec87f12fa40b4d4a4897559d13b29ede188c"
     },
     {
       "path": "config/cofh/world/943_between_ores.json",
@@ -187,7 +251,7 @@
     },
     {
       "path": "config/densemetals.cfg",
-      "hash": "891021732127cd0fc928f4a94196b26e6917bf86"
+      "hash": "50586b1f20ee369191d4e4d504846727c52c602b"
     },
     {
       "path": "config/editenchanting.cfg",
@@ -219,7 +283,7 @@
     },
     {
       "path": "config/flammpfeil.slashblade.cfg",
-      "hash": "0c766e284ac5b99d86280b69857de541c8d073ff"
+      "hash": "593e4ff7060296b585d44da5895203245885073d"
     },
     {
       "path": "config/foamfix.cfg",
@@ -267,7 +331,7 @@
     },
     {
       "path": "config/InvTweaks.cfg",
-      "hash": "b9092f0b5bbfb9f6cdde49dc4c6901cee139bf47"
+      "hash": "da1827147bec9318d2549eacbdad3fbaab8bc35f"
     },
     {
       "path": "config/InvTweaksRules.txt",
@@ -307,7 +371,7 @@
     },
     {
       "path": "config/jei/worldSettings.cfg",
-      "hash": "e06a361cd4897f4f391a64c49011fc22801ba9b7"
+      "hash": "c61fe46d1f129ec319e22531eb2a636ed808639b"
     },
     {
       "path": "config/jeiutilities/jeiutilities.cfg",
@@ -2423,11 +2487,11 @@
     },
     {
       "path": "config/ProjectE/custom_emc.json",
-      "hash": "8c4e9c59704866f287e911a8d1071f62960abbe2"
+      "hash": "321060b34ebd6e96badad60dd49635b885b5995a"
     },
     {
       "path": "config/ProjectE/mapping.cfg",
-      "hash": "ccab6663a24c7b8c9fd4a268a43bc49dc101200e"
+      "hash": "5945caed8ce1643749868f777a3f1ac650a84a31"
     },
     {
       "path": "config/ProjectE/nbt_whitelist.json",
@@ -2439,11 +2503,11 @@
     },
     {
       "path": "config/projecteintegration.cfg",
-      "hash": "2992f3dcc472c1687b3b20d23a8f092de4599859"
+      "hash": "dc69e627d3ba0d0ef8a5c5a29e5c6d1f041c8389"
     },
     {
       "path": "config/rare-ice.properties",
-      "hash": "c48996bde725431974c17b5e9bcff5d8bb2ace95"
+      "hash": "0c6ca602371afd3b10fbe0d174c002d8f27191ee"
     },
     {
       "path": "config/renderlib.cfg",
@@ -2503,7 +2567,7 @@
     },
     {
       "path": "config/splash.properties",
-      "hash": "45f203b0f9ff577fb64dbe1b40ae8d54dc1575b2"
+      "hash": "136e1a845e5a80d9ca7efdbf3301bb53fbfebbce"
     },
     {
       "path": "config/tconevo/.config_version",
@@ -2839,7 +2903,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "e63204096519bff5d511d1f7625c7d37f57eadfd"
+      "hash": "9076bd3615b3403d1ce04b076cd2c7fad8c549d4"
     },
     {
       "path": "config/xaeropatreon.txt",
@@ -2858,10 +2922,6 @@
       "hash": "69a5b057602390d931d6d4335f8cc42e954ad0c5"
     },
     {
-      "path": "mods/![Mixin支持]mixinbooter-10.7.jar",
-      "hash": "3fdfffe4fd446461ea9c3cb044484588997b9dbc"
-    },
-    {
       "path": "mods/1.12.2/codecjlayermp3-1.0.0-SNAPSHOT.jar",
       "hash": "c77964f24dcb253e71ea6ff7a5f74301d6928817"
     },
@@ -2872,6 +2932,10 @@
     {
       "path": "mods/1.12.2/nashorn.jar",
       "hash": "8442c8d2ec022bc3423cc847c16b866a924ae708"
+    },
+    {
+      "path": "mods/[!Mixin支持]mixinbooter-10.7.jar",
+      "hash": "3fdfffe4fd446461ea9c3cb044484588997b9dbc"
     },
     {
       "path": "mods/[3d皮肤层]3dSkinLayers-forge-mc1.12.2-1.2.0.jar",
@@ -3126,6 +3190,22 @@
       "hash": "aa620a29bd9492b09f0a1a0c9da7428ede0954ed"
     },
     {
+      "path": "mods/[热力世界]CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+      "hash": "863e1524fe0087d434a5e44d27cc2dd0353b9399"
+    },
+    {
+      "path": "mods/[热力基本]ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+      "hash": "6bd93897638fd68794cae17c9520b68a85fc97d0"
+    },
+    {
+      "path": "mods/[热力核心]CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "hash": "4dd5aa3ff30d7966ae253556f79bb3f13bc5576e"
+    },
+    {
+      "path": "mods/[热力膨胀]ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+      "hash": "3568d977c90987c58ad2c7cb3837c4ac8de49216"
+    },
+    {
       "path": "mods/[祛魔编辑台]DisenchantmentEditTable-1.12.2-1.0.9.jar",
       "hash": "38a1151a83a18dabc5e3d25fccd70478f74b859f"
     },
@@ -3156,6 +3236,10 @@
     {
       "path": "mods/[糖果世界]candyworld-1.1.5.jar",
       "hash": "3d7ab77c4971669d218b09422bdfcba394473c27"
+    },
+    {
+      "path": "mods/[红石通量]RedstoneFlux-1.12-2.1.1.1-universal.jar",
+      "hash": "7835c1dcc006e5d4a406a6b0615012b825e25044"
     },
     {
       "path": "mods/[耕地保护]seedprotect-1.12.2-1.2.0.jar",
@@ -3222,56 +3306,16 @@
       "hash": "ff39b3361a5001fa2071ee3a99af0b5614364b16"
     },
     {
+      "path": "mods/[鸡块]CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+      "hash": "b6a7e3b889c354216059a3bfad298e30a1e46a2d"
+    },
+    {
       "path": "mods/[鼠标手势]MouseTweaks-2.10-mc1.12.2.jar",
       "hash": "0d3b0589021905b2eab8ba93805e9fdef463288e"
     },
     {
-      "path": "natives-windows-x86_64/jinput-dx8.dll",
-      "hash": "50348b2958b017df3bf30d7915ab61a4cb9a2b33"
-    },
-    {
-      "path": "natives-windows-x86_64/jinput-dx8_64.dll",
-      "hash": "5d9a7d3fb6224dab97aaff7bd9430232732d9be8"
-    },
-    {
-      "path": "natives-windows-x86_64/jinput-raw.dll",
-      "hash": "4d982f408e815519c2289cd720c78338392a9887"
-    },
-    {
-      "path": "natives-windows-x86_64/jinput-raw_64.dll",
-      "hash": "067c11135f9ebeb554d5f80b7a8a5244c0f3b7d7"
-    },
-    {
-      "path": "natives-windows-x86_64/jinput-wintab.dll",
-      "hash": "e7b9beead279298611d0c4753089d3af07c4c9e9"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl.dll",
-      "hash": "6f1661fc6952312a9f34dfa6d3840b46e9c85e63"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl64.dll",
-      "hash": "f4013116d6750829851370ed19a9eaf8251ad6e1"
-    },
-    {
-      "path": "natives-windows-x86_64/OpenAL32.dll",
-      "hash": "ede381bf55e7d0cd3a7e058237bbc66a8ff63837"
-    },
-    {
-      "path": "natives-windows-x86_64/OpenAL64.dll",
-      "hash": "97362fba53dfb6d9581b8c64829f4b1d98a97855"
-    },
-    {
-      "path": "natives-windows-x86_64/SAPIWrapper_x64.dll",
-      "hash": "7fdbc1a8a9c0e550e95b7444369529c823f7d24f"
-    },
-    {
-      "path": "natives-windows-x86_64/SAPIWrapper_x86.dll",
-      "hash": "d48b1c8b9e20f9e4de21497d6dda1fba2f0d84d1"
-    },
-    {
       "path": "options.txt",
-      "hash": "cd1a3e298de6efc594c88dbb1b4b130882f9c6be"
+      "hash": "e825cbe048ec4063f8d390192147e54d0adff880"
     }
   ],
   "addons": [

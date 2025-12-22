@@ -159,6 +159,70 @@
     {
       "item": "appliedenergistics2:part|16",
       "emc": 546
+    },
+    {
+      "item": "mysticalagriculture:crafting|1",
+      "emc": 512
+    },
+    {
+      "item": "mysticalagriculture:crafting|2",
+      "emc": 2048
+    },
+    {
+      "item": "mysticalagriculture:crafting|3",
+      "emc": 8192
+    },
+    {
+      "item": "mysticalagriculture:crafting|4",
+      "emc": 32768
+    },
+    {
+      "item": "tconstruct:slime_dirt|0",
+      "emc": 8
+    },
+    {
+      "item": "moretcon:ingotgravitonium|0",
+      "emc": 65536
+    },
+    {
+      "item": "moretcon:ingotsteel|0",
+      "emc": 512
+    },
+    {
+      "item": "moretcon:ingotsolarsteel|0",
+      "emc": 262144
+    },
+    {
+      "item": "moretcon:gemenderal|0",
+      "emc": 1024
+    },
+    {
+      "item": "moretcon:ingottrichromadentium|0",
+      "emc": 262144
+    },
+    {
+      "item": "appliedenergistics2:sky_stone_block|0",
+      "emc": 1
+    },
+    {
+      "item": "aoa3:limonite_ingot|0",
+      "emc": 128
+    },
+    {
+      "item": "aoa3:rosite_ingot|0",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|256",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|289",
+      "emc": 5120
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 768
     }
   ]
 }

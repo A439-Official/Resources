@@ -165,6 +165,7 @@ key_key.flammpfeil.slashblade.mode_change:0
 key_key.travelersbackpack.inventory:48
 key_key.travelersbackpack.toggle_tank:0
 key_key.travelersbackpack.cycle_tool:0
+key_key.cofh.multimode:47
 key_key.push_to_talk:0
 key_key.whisper:0
 key_key.mute_microphone:0
