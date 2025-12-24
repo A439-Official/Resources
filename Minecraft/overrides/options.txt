@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:0
 renderClouds:true
-resourcePacks:["汉化资源包 by A439"]
+resourcePacks:["汉化资源包 by A439","FutureTexture(From 1.20.4) by A439"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn

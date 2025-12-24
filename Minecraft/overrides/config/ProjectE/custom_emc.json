@@ -223,6 +223,86 @@
     {
       "item": "minecraft:blaze_powder|0",
       "emc": 768
+    },
+    {
+      "item": "mysticalagriculture:chunk|0",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|257",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:material|197",
+      "emc": 0
+    },
+    {
+      "item": "thermaldynamics:servo|0",
+      "emc": 633
+    },
+    {
+      "item": "thermalfoundation:material|294",
+      "emc": 2816
+    },
+    {
+      "item": "thermalfoundation:material|259",
+      "emc": 2048
+    },
+    {
+      "item": "thermalfoundation:material|290",
+      "emc": 2048
+    },
+    {
+      "item": "thermaldynamics:duct_32|0",
+      "emc": 704
+    },
+    {
+      "item": "minecraft:sandstone|0",
+      "emc": 1
+    },
+    {
+      "item": "thermalfoundation:material|864",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|24",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:material|64",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|66",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|101",
+      "emc": 24608
+    },
+    {
+      "item": "thermalfoundation:material|293",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:material|291",
+      "emc": 640
+    },
+    {
+      "item": "moretcon:gemerythynite|0",
+      "emc": 4096
+    },
+    {
+      "item": "moretcon:gembloodstone|0",
+      "emc": 2048
+    },
+    {
+      "item": "aoa3:bloodstone|0",
+      "emc": 2048
+    },
+    {
+      "item": "aoa3:night_vision_goggles|0",
+      "emc": 1919810
     }
   ]
 }
